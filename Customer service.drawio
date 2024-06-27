@@ -1,11 +1,180 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T05:29:36.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="TMoSmqbkRdilvsEv6o7j" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T06:09:04.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="cikUjykAnqKhGvTw6f41" version="24.6.3" type="github">
   <diagram name="Page-1" id="b59epNkeMbOzB8juziSo">
     <mxGraphModel dx="954" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3tgIKhoCPCES6foNJ8vc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="3tgIKhoCPCES6foNJ8vc-1" value="New ticket created in Zoho desk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-1" target="3tgIKhoCPCES6foNJ8vc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-3" value="Customer queries through calls" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-4" value="Customer queries through mails" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-5" value="Customer queries through other channels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="142" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-3" target="3tgIKhoCPCES6foNJ8vc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="210" />
+              <mxPoint x="290" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-4" target="3tgIKhoCPCES6foNJ8vc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-5" target="3tgIKhoCPCES6foNJ8vc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="210" />
+              <mxPoint x="290" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3tgIKhoCPCES6foNJ8vc-1" target="3B1VtX6M3WB1cxs34F5Y-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-10" value="Ticket assignment logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-11" value="Customer support checks customer details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="235" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-10" target="3B1VtX6M3WB1cxs34F5Y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-13" value="Resolves the issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-11" target="3B1VtX6M3WB1cxs34F5Y-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-15" value="Customer not satisfied" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="142" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-13" target="3B1VtX6M3WB1cxs34F5Y-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-17" value="Ticket reopens" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="147" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-17" target="3B1VtX6M3WB1cxs34F5Y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-15" target="3B1VtX6M3WB1cxs34F5Y-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="470" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-20" value="Customer satisfied" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.5" y="320" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-13" target="3B1VtX6M3WB1cxs34F5Y-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="250" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-22" value="Ticket closed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="388" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-20" target="3B1VtX6M3WB1cxs34F5Y-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="250" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-24" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="662.5" y="450" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-22" target="3B1VtX6M3WB1cxs34F5Y-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="390" as="sourcePoint" />
+            <mxPoint x="790" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-26" value="Ticket not resolved even after reopening - External customer escalation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="232" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-13" target="3B1VtX6M3WB1cxs34F5Y-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="sourcePoint" />
+            <mxPoint x="600" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-28" value="Escalated / Ticket moves to IRDA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="229.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-30" target="3tgIKhoCPCES6foNJ8vc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="sourcePoint" />
+            <mxPoint x="600" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="530" />
+              <mxPoint x="290" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-28" target="3B1VtX6M3WB1cxs34F5Y-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="290" as="sourcePoint" />
+            <mxPoint x="760" y="590" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-30" value="IRDA intervenes and redirects the case" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-26" target="3B1VtX6M3WB1cxs34F5Y-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="sourcePoint" />
+            <mxPoint x="640" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-33" value="&lt;span style=&quot;text-align: start;&quot; class=&quot;asyncClip&quot; data-zohoshowclipboard=&quot;{&amp;quot;cdata&amp;quot;:{&amp;quot;showClips&amp;quot;:[{&amp;quot;id&amp;quot;:&amp;quot;A82D8F8A-93F5-4D15-8AA9-2201EB2113DF&amp;quot;,&amp;quot;clips&amp;quot;:[{&amp;quot;detail&amp;quot;:{&amp;quot;docId&amp;quot;:&amp;quot;3500271000508157013&amp;quot;,&amp;quot;owner&amp;quot;:&amp;quot;667009621&amp;quot;,&amp;quot;slideSetup&amp;quot;:{&amp;quot;screenType&amp;quot;:&amp;quot;SIXTEEN_BY_NINE&amp;quot;,&amp;quot;orient&amp;quot;:&amp;quot;LANDSCAPE&amp;quot;,&amp;quot;size&amp;quot;:{&amp;quot;width&amp;quot;:960,&amp;quot;height&amp;quot;:540}}},&amp;quot;type&amp;quot;:&amp;quot;PRINCIPAL&amp;quot;,&amp;quot;principal&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;TEXT&amp;quot;,&amp;quot;fileIds&amp;quot;:[&amp;quot;{\&amp;quot;type\&amp;quot;:\&amp;quot;PARA\&amp;quot;,\&amp;quot;paras\&amp;quot;:[{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;Types\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;Types\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Endorsement\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Endorsement\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Policy related query\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Policy related query\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Claims related queries\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Claims related queries\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- New policy purchase\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- New policy purchase\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Referral\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Referral\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}},{\&amp;quot;para\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Complaints (Escalations)\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{}},\&amp;quot;source\&amp;quot;:{\&amp;quot;portions\&amp;quot;:[{\&amp;quot;t\&amp;quot;:\&amp;quot;- Complaints (Escalations)\&amp;quot;,\&amp;quot;props\&amp;quot;:{\&amp;quot;font\&amp;quot;:{\&amp;quot;ref\&amp;quot;:\&amp;quot;MINOR\&amp;quot;,\&amp;quot;fontFamily\&amp;quot;:{\&amp;quot;name\&amp;quot;:\&amp;quot;Open Sans\&amp;quot;}},\&amp;quot;fill\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;SOLID\&amp;quot;,\&amp;quot;solid\&amp;quot;:{\&amp;quot;color\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;CUSTOM\&amp;quot;,\&amp;quot;rgb\&amp;quot;:[255,255,255]}}},\&amp;quot;size\&amp;quot;:10,\&amp;quot;chk\&amp;quot;:{\&amp;quot;state\&amp;quot;:\&amp;quot;PROCESSED\&amp;quot;,\&amp;quot;lang\&amp;quot;:\&amp;quot;en-US\&amp;quot;}}}],\&amp;quot;style\&amp;quot;:{\&amp;quot;halign\&amp;quot;:\&amp;quot;LEFT\&amp;quot;,\&amp;quot;level\&amp;quot;:1,\&amp;quot;spacing\&amp;quot;:{\&amp;quot;line\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;PERCENT\&amp;quot;,\&amp;quot;percent\&amp;quot;:1},\&amp;quot;before\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0},\&amp;quot;after\&amp;quot;:{\&amp;quot;type\&amp;quot;:\&amp;quot;ABSOLUTE\&amp;quot;,\&amp;quot;absolute\&amp;quot;:0}},\&amp;quot;margin\&amp;quot;:{\&amp;quot;left\&amp;quot;:0},\&amp;quot;dir\&amp;quot;:\&amp;quot;LTR\&amp;quot;}}}]}&amp;quot;]}}]}]},&amp;quot;isCompleteData&amp;quot;:true,&amp;quot;reqId&amp;quot;:&amp;quot;A82D8F8A-93F5-4D15-8AA9-2201EB2113DF&amp;quot;,&amp;quot;isChartCopying&amp;quot;:false,&amp;quot;copiedToServer&amp;quot;:true,&amp;quot;rid&amp;quot;:&amp;quot;ewfyhc41d4a48cb3d40078daf93d9a3fabe3f&amp;quot;,&amp;quot;referrer&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;sent&amp;quot;:true}&quot; data-zohoshowid=&quot;A82D8F8A-93F5-4D15-8AA9-2201EB2113DF&quot; data-zohoshowzuid=&quot;90dbb3762a49bae1be64bfddf021d028&quot; data-zohoshowcliptype=&quot;TEXT&quot;&gt;‌&lt;/span&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;Types&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- Endorsement&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- Policy related query&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- Claims related queries&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- New policy purchase&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- Referral&lt;/span&gt;&lt;br style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;&lt;span style=&quot;text-align: start; font-size: 13.333333px; font-family: &amp;quot;Open Sans&amp;quot;;&quot;&gt;- Complaints (Escalations)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="907" y="50" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3B1VtX6M3WB1cxs34F5Y-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.553;exitY=0.793;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3B1VtX6M3WB1cxs34F5Y-33" target="3B1VtX6M3WB1cxs34F5Y-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="320" as="sourcePoint" />
+            <mxPoint x="920" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
