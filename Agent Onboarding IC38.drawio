@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:24:53.333Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="bb2MK5zmXl_sdMl6-BDD" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:28:06.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="MubPJF-hvKUgRmwABnlc" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="3077" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1964" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-10" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Provision to save the application data as a draft is required as many info about the agents might not be available immediately.&lt;/div&gt;&lt;div&gt;2. Only after all the mandatory fields are filled in the application, the process should move to the next stage (Blueprint - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. Provision to upload the documents in CRM as MVP1 and eventually to Newgen as MVP2- &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="16" y="384.31" width="240" height="174.38" as="geometry" />
+          <mxGeometry x="16" y="372.16" width="240" height="198.69" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-10" target="W-MlJIcmKjAAyfEWoJ3Q-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
