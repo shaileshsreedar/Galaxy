@@ -1,0 +1,771 @@
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:33:16.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="1Ue1EPbyQCEB2z7qG6K7" version="24.6.4" type="github">
+  <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
+    <mxGraphModel dx="2123" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="222.5" width="61" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="NBfsZXymPOGGM7-1zEKC-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227" y="364" as="sourcePoint" />
+            <mxPoint x="110" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="240" />
+              <mxPoint x="70" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-7" value="Sales Manager fills the form 1A in the CRM (data as received by the agent through call/ mail etc)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="440" width="160" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-9" value="SM identifies and selects the type of Agent assigned (CRM Dropdown value)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="407" y="257.5" width="100" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-3" target="W-MlJIcmKjAAyfEWoJ3Q-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="277" y="314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-11" value="IC38" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="376" width="62" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-12" value="POSP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="433" y="376" width="48" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-13" value="Composite" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="376" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-110" target="0TxoYsAdlca8F8hX1XT_-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894" y="244" as="sourcePoint" />
+            <mxPoint x="939" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-9" target="W-MlJIcmKjAAyfEWoJ3Q-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="329" as="sourcePoint" />
+            <mxPoint x="522" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="350" />
+              <mxPoint x="360" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-9" target="W-MlJIcmKjAAyfEWoJ3Q-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="329" as="sourcePoint" />
+            <mxPoint x="522" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-9" target="W-MlJIcmKjAAyfEWoJ3Q-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="472" y="329" as="sourcePoint" />
+            <mxPoint x="522" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="350" />
+              <mxPoint x="565" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0TxoYsAdlca8F8hX1XT_-1" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="750" y="112.5" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-1" value="Potential agents details imported into CRM through manual data upload by Sales Managers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="256.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-3" value="All the agents uploaded by SM is mapped to the respective individual" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="264" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-1" target="NBfsZXymPOGGM7-1zEKC-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="360" as="sourcePoint" />
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-11" target="W-MlJIcmKjAAyfEWoJ3Q-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-8" value="KYC validatation manually (MVP-1)by SM&#39;s(PAN used as unique identifier) &amp;amp; through integration in MVP-2-&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="270" y="530" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-7" target="NBfsZXymPOGGM7-1zEKC-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="520" as="sourcePoint" />
+            <mxPoint x="560" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-10" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Provision to save the application data as a draft is required as many info about the agents might not be available immediately.&lt;/div&gt;&lt;div&gt;2. Only after all the mandatory fields are filled in the application, the process should move to the next stage (Blueprint - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. Provision to upload the documents in CRM as MVP1 and eventually to Newgen as MVP2- &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="16" y="372.16" width="240" height="198.69" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-10" target="W-MlJIcmKjAAyfEWoJ3Q-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="520" as="sourcePoint" />
+            <mxPoint x="300" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-12" value="SM&#39;s uploads the relevant KYC/ Application documents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="620" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-8" target="NBfsZXymPOGGM7-1zEKC-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="590" as="sourcePoint" />
+            <mxPoint x="300" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-14" value="Agent to provide the consent to start the onboarding (OTP based)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-15" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Integration with SMS/ Email gateway, already ready as confirmed by Galaxy - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="76" y="680" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-15" target="NBfsZXymPOGGM7-1zEKC-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="670" as="sourcePoint" />
+            <mxPoint x="300" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-12" target="NBfsZXymPOGGM7-1zEKC-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="670" as="sourcePoint" />
+            <mxPoint x="300" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-18" value="&lt;u&gt;Decision on collection of payment from the agents&lt;/u&gt;&lt;div&gt;Option to be provided in CRM&lt;/div&gt;&lt;div&gt;a. Fee collection flow&lt;/div&gt;&lt;div&gt;b. Waived off flow&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="790" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-14" target="NBfsZXymPOGGM7-1zEKC-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="750" as="sourcePoint" />
+            <mxPoint x="300" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-18" target="NBfsZXymPOGGM7-1zEKC-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="890" as="sourcePoint" />
+            <mxPoint x="350" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="900" />
+              <mxPoint x="240" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-25" value="Fee collection&lt;div&gt;flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-20" vertex="1" connectable="0">
+          <mxGeometry x="0.2383" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-21" value="SM fills the payment status (Paid/ not paid) in CRM after paying through the gateway (outside CRM)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="155" y="1000" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-24" value="SM&#39;s submits the application form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="418" y="930" width="103" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-18" target="NBfsZXymPOGGM7-1zEKC-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="920" as="sourcePoint" />
+            <mxPoint x="280" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="900" />
+              <mxPoint x="470" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-27" value="Waived off&lt;div&gt;flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.0069" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-28" value="SM&#39;s submits the application form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="188.5" y="930" width="103" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-28" target="NBfsZXymPOGGM7-1zEKC-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="980" as="sourcePoint" />
+            <mxPoint x="280" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-34" value="Application moved to business coder admin team for checking (Round robin based allocation)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="674" y="915" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-35" value="&lt;u&gt;&lt;b&gt;CRM Validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;Moved to this stage only on below 2 possibilities&lt;/div&gt;&lt;div&gt;1. SM&#39;s submits the application and payment is waived off&lt;/div&gt;&lt;div&gt;(or)&lt;/div&gt;&lt;div&gt;2. SM&#39;s submits the application and payment is received&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="1010" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-35" target="NBfsZXymPOGGM7-1zEKC-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="1020" as="sourcePoint" />
+            <mxPoint x="584" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-24" target="NBfsZXymPOGGM7-1zEKC-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1050" as="sourcePoint" />
+            <mxPoint x="560" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-21" target="NBfsZXymPOGGM7-1zEKC-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1120" as="sourcePoint" />
+            <mxPoint x="560" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1030" />
+              <mxPoint x="430" y="990" />
+              <mxPoint x="540" y="990" />
+              <mxPoint x="540" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-40" value="Approve" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="854" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-41" value="Reject" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="854" y="910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-42" value="Raise a query" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="849" y="970" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-34" target="NBfsZXymPOGGM7-1zEKC-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="1010" as="sourcePoint" />
+            <mxPoint x="744" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="824" y="950" />
+              <mxPoint x="824" y="875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-34" target="NBfsZXymPOGGM7-1zEKC-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="1010" as="sourcePoint" />
+            <mxPoint x="744" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="824" y="950" />
+              <mxPoint x="824" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-34" target="NBfsZXymPOGGM7-1zEKC-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="1010" as="sourcePoint" />
+            <mxPoint x="744" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="824" y="950" />
+              <mxPoint x="824" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-47" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="950" y="912.5" width="56" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-41" target="NBfsZXymPOGGM7-1zEKC-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="804" y="1010" as="sourcePoint" />
+            <mxPoint x="854" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-49" value="Create Temp ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="930" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-49" target="NBfsZXymPOGGM7-1zEKC-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1010" as="sourcePoint" />
+            <mxPoint x="730" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-51" value="The format of this ID to be defined - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D2&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="541" y="862" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.537;exitY=0.808;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-51" target="NBfsZXymPOGGM7-1zEKC-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="890" as="sourcePoint" />
+            <mxPoint x="730" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-55" value="New task created by the admin to the relevant assigned SM&#39;s to get back on the query regarding the agent - Query template to be shared &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D3)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="973" y="1050" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-42" target="NBfsZXymPOGGM7-1zEKC-55" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="1040" as="sourcePoint" />
+            <mxPoint x="820" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1058" y="985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-57" value="CRM Validation:&lt;div&gt;1. Task notification triggered to the respective SM&lt;/div&gt;&lt;div&gt;2. Reminder notifications and frequency of notifications to be decided -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="1030" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-57" target="NBfsZXymPOGGM7-1zEKC-55" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="1040" as="sourcePoint" />
+            <mxPoint x="960" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-59" value="SM reviews, acts and resolves the task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="998" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-55" target="NBfsZXymPOGGM7-1zEKC-59" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="1100" as="sourcePoint" />
+            <mxPoint x="1030" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-61" value="Notification sent back to Admin" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1162" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-59" target="NBfsZXymPOGGM7-1zEKC-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1260" as="sourcePoint" />
+            <mxPoint x="1020" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-61" target="NBfsZXymPOGGM7-1zEKC-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1080" as="sourcePoint" />
+            <mxPoint x="1190" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1222" y="875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-64" value="Admin approves" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-63" vertex="1" connectable="0">
+          <mxGeometry x="0.466" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-61" target="NBfsZXymPOGGM7-1zEKC-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1090" as="sourcePoint" />
+            <mxPoint x="1020" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1222" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-66" value="Admin rejects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-65" vertex="1" connectable="0">
+          <mxGeometry x="0.5253" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-67" value="Admin shares the agent details manually to Training Institute once the approve button is clicked" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="806" y="760" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-40" target="NBfsZXymPOGGM7-1zEKC-67" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="900" as="sourcePoint" />
+            <mxPoint x="930" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-69" value="Training Institute uploads the Training completion certificate (TCC) in CRM against each unique PAN no post completion of the training of the respective agents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="774.25" y="650" width="219.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-67" target="NBfsZXymPOGGM7-1zEKC-69" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="780" as="sourcePoint" />
+            <mxPoint x="930" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-71" value="&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;div&gt;1 user with custom role profile to be created for the Institute to have only upload document &amp;nbsp;feature against each TempID and PAN mapped to agent name&amp;nbsp;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="630" width="181" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-71" target="NBfsZXymPOGGM7-1zEKC-69" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="780" as="sourcePoint" />
+            <mxPoint x="990" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-69" target="NBfsZXymPOGGM7-1zEKC-74" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="720" as="sourcePoint" />
+            <mxPoint x="890" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-11" value="TCC Received" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-73" vertex="1" connectable="0">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-74" value="1. Admin will manually upload the TCC (for TCC obtained agents) and agent details in III portal&lt;div&gt;2. Unique URN number is generated by III for each agents&lt;/div&gt;&lt;div&gt;3. Admin will process the payment for applicants&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="781.5" y="515" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-75" value="Admin will map the URN against the TempID in CRM For all agents where URN is generated(through file upload feature) - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1013" y="514.06" width="120" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-74" target="NBfsZXymPOGGM7-1zEKC-75" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="600" as="sourcePoint" />
+            <mxPoint x="930" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-78" value="&lt;u&gt;Alert Notification to SM&#39;s:&lt;/u&gt;&lt;div&gt;1. To book exam slot against the URN no.&lt;/div&gt;&lt;div&gt;2. Share hall ticket with the agents&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1162" y="527.5" width="160" height="75.62" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-75" target="NBfsZXymPOGGM7-1zEKC-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="600" as="sourcePoint" />
+            <mxPoint x="1130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-80" value="Reminder notifications &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D6)&lt;/span&gt; to be triggered (Frequency to be decided)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1162" y="446.5" width="160" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.846;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-80" target="NBfsZXymPOGGM7-1zEKC-78" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="580" as="sourcePoint" />
+            <mxPoint x="1450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-82" value="Notification sent to Admin to download Hall ticket using URN no. from III" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-78" target="w_etyACIegaJ3iJ-0LxL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="570" as="sourcePoint" />
+            <mxPoint x="1270" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-84" value="Admin uploads the hall ticket against Temp ID manually in CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-82" target="NBfsZXymPOGGM7-1zEKC-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="570" as="sourcePoint" />
+            <mxPoint x="1450" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-88" value="Trigger notifications to SM&#39;s and Agents on the details of exam schedule - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1610" y="445.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-89" value="Frequency to be decided" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1750" y="451.88" width="90" height="47.74" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-89" target="NBfsZXymPOGGM7-1zEKC-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="580" as="sourcePoint" />
+            <mxPoint x="1650" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-91" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-84" target="NBfsZXymPOGGM7-1zEKC-88" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="580" as="sourcePoint" />
+            <mxPoint x="1470" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-92" value="Task, Notification: Based on exam date entered by SM, notification to be triggered to Admins to download the score card post completion of exam using URN." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1570" y="350" width="200" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-88" target="NBfsZXymPOGGM7-1zEKC-92" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="520" as="sourcePoint" />
+            <mxPoint x="1470" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-94" value="Frequency to be decided-&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D8&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="360.63" width="90" height="47.74" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-95" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-94" target="NBfsZXymPOGGM7-1zEKC-92" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="450" as="sourcePoint" />
+            <mxPoint x="1570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-96" value="&amp;nbsp;1. Upload the score card in CRM by Admin &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D9)&lt;/span&gt;&lt;div&gt;2. Click pass / fail option by Admin&amp;nbsp;&lt;/div&gt;&lt;div&gt;3. Upload PAN lookup page screenshot in CRM by Admin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1471" y="251.5" width="180" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-97" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-92" target="NBfsZXymPOGGM7-1zEKC-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="390" as="sourcePoint" />
+            <mxPoint x="1520" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-98" value="Exam Passed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="227.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-99" value="Exam Failed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="276.5" width="60" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-96" target="NBfsZXymPOGGM7-1zEKC-98" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="380" as="sourcePoint" />
+            <mxPoint x="1650" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="292" />
+              <mxPoint x="1450" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D10)&lt;/span&gt; - Logic by TCS&lt;div&gt;2. Appointment letter generation - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D11)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-98" target="NBfsZXymPOGGM7-1zEKC-102" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="280" as="sourcePoint" />
+            <mxPoint x="1420" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-104" value="Outbound API&lt;div&gt;to TCS Bancs (MVP-2) - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;(No Integration for MVP-1)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NBfsZXymPOGGM7-1zEKC-103" vertex="1" connectable="0">
+          <mxGeometry x="0.0148" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1143" y="95" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-110" value="Notification for SM to validate Agent login in Agent portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="849" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-111" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-107" target="w_etyACIegaJ3iJ-0LxL-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="900" y="280" as="sourcePoint" />
+            <mxPoint x="950" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-114" value="Notification to SM to process the exam fees and continue the cycle/loop" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1182" y="262.43" width="140" height="59.63" as="geometry" />
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-99" target="NBfsZXymPOGGM7-1zEKC-114" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="330" as="sourcePoint" />
+            <mxPoint x="1230" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-114" target="0TxoYsAdlca8F8hX1XT_-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="300" as="sourcePoint" />
+            <mxPoint x="1060" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-12" target="NBfsZXymPOGGM7-1zEKC-120" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="490" as="sourcePoint" />
+            <mxPoint x="570" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="440" />
+              <mxPoint x="565" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-119" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-13" target="NBfsZXymPOGGM7-1zEKC-120" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="490" as="sourcePoint" />
+            <mxPoint x="620" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-120" value="Shown in separate flow" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="505" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-2" value="SM&#39;s enter the exam date in CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="545" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-2" target="NBfsZXymPOGGM7-1zEKC-82" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="600" as="sourcePoint" />
+            <mxPoint x="1370" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-102" target="NBfsZXymPOGGM7-1zEKC-107" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="150" as="sourcePoint" />
+            <mxPoint x="1130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-5" value="Consent to be received from agent to accept the agency with the Insurance company (&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="998" y="96" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-5" target="NBfsZXymPOGGM7-1zEKC-110" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="240" as="sourcePoint" />
+            <mxPoint x="1030" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-7" value="Pennydrop validation - MVP-2 (&lt;b&gt;I7&lt;/b&gt;); exact details to be defined" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="51" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-10" value="Create a Task to follow up on TCC (not obtained agents) and assign to sales manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="541" y="660" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-69" target="w_etyACIegaJ3iJ-0LxL-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="710" as="sourcePoint" />
+            <mxPoint x="840" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-13" value="TCC not&lt;div&gt;received&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w_etyACIegaJ3iJ-0LxL-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1272" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-14" value="Frequency of notifications to be decided &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D13&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="580" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.533;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-14" target="w_etyACIegaJ3iJ-0LxL-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="560" as="sourcePoint" />
+            <mxPoint x="740" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-96" target="w_etyACIegaJ3iJ-0LxL-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="300" as="sourcePoint" />
+            <mxPoint x="1420" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="293" />
+              <mxPoint x="1450" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-96" target="NBfsZXymPOGGM7-1zEKC-99" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="300" as="sourcePoint" />
+            <mxPoint x="1410" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-18" value="Exam not attempted" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="333.5" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-18" target="w_etyACIegaJ3iJ-0LxL-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="420" as="sourcePoint" />
+            <mxPoint x="1290" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-20" value="Task created to SM&#39;s for followup with Agents for exam completion" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1169" y="329.06" width="162" height="47.94" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-21" value="Frequency of notifications to be decided &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D14&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="323.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-21" target="w_etyACIegaJ3iJ-0LxL-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="470" as="sourcePoint" />
+            <mxPoint x="1130" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-74" target="w_etyACIegaJ3iJ-0LxL-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="560" as="sourcePoint" />
+            <mxPoint x="970" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-24" value="Create a Task to follow up on generation of URN (to whom this is not generated) and assign to sales manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="794" y="426" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-25" value="Frequency of notifications to be decided &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D15&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="839" y="341" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.517;exitY=0.819;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-25" target="w_etyACIegaJ3iJ-0LxL-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="330" as="sourcePoint" />
+            <mxPoint x="970" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-27" value="Frequency of notifications to be decided &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="635" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-28" value="Task notifications to be triggered to admins to download hall ticket (to agents whose hall ticket was not downloaded" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="630" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-82" target="w_etyACIegaJ3iJ-0LxL-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="720" as="sourcePoint" />
+            <mxPoint x="1550" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-27" target="w_etyACIegaJ3iJ-0LxL-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="720" as="sourcePoint" />
+            <mxPoint x="1550" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-31" value="Leads through webforms from agent portal -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="167.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-32" value="SM allocated based on leads originated regions/zones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="167.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-31" target="w_etyACIegaJ3iJ-0LxL-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-32" target="W-MlJIcmKjAAyfEWoJ3Q-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="457" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="w_etyACIegaJ3iJ-0LxL-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="290" as="sourcePoint" />
+            <mxPoint x="310" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="240" />
+              <mxPoint x="70" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-37" value="Region, logic and user profiles of SM&#39;s to be shared - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D17&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="271" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.456;exitY=0.879;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-37" target="w_etyACIegaJ3iJ-0LxL-32" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="120" as="sourcePoint" />
+            <mxPoint x="300" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-7" target="NBfsZXymPOGGM7-1zEKC-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="960" as="sourcePoint" />
+            <mxPoint x="170" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="256" y="1203" width="44" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-2" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="303" y="1199" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="433" y="1203" width="44" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-4" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="482" y="1199" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-5" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1198" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-6" value="Dependency from Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="635" y="1198" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-7" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="755" y="1199" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wD7Zks4-9CGhQ6oiG0yA-8" value="Interface with CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="806" y="1198" width="82" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
