@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T16:48:02.238Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kbPvDKo_5nGP-tfU1eE-" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T17:10:56.359Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PWU64Zshk74ramiHoUfz" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="2203" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,7 +593,7 @@
             <mxPoint x="1030" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_etyACIegaJ3iJ-0LxL-7" value="Pennydrop validation - MVP-2 (I); exact details to be defined" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-7" value="Pennydrop validation - MVP-2 (&lt;b&gt;I7&lt;/b&gt;); exact details to be defined" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="51" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_etyACIegaJ3iJ-0LxL-10" value="Create a Task to follow up on TCC (not obtained agents) and assign to sales manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
