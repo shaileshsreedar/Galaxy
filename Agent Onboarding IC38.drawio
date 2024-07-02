@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T10:03:19.025Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="WppgROxgPOLWm4mYtrAH" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T10:07:13.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="XRRKTA3F04PCGB23prur" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
     <mxGraphModel dx="954" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -594,7 +594,7 @@
             <mxPoint x="1130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_etyACIegaJ3iJ-0LxL-5" value="Consent to be received from agent to accept the agency with the Insurance company" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-5" value="Consent to be received from agent to accept the agency with the Insurance company (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D12&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998" y="95" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w_etyACIegaJ3iJ-0LxL-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_etyACIegaJ3iJ-0LxL-5" target="NBfsZXymPOGGM7-1zEKC-110">
@@ -602,6 +602,9 @@
             <mxPoint x="980" y="240" as="sourcePoint" />
             <mxPoint x="1030" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w_etyACIegaJ3iJ-0LxL-7" value="Pennydrop validation - MVP-2 (I); exact details to be defined" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="90" y="862" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
