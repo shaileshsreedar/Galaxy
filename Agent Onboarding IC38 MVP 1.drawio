@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T17:18:45.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="yDQQz0sGo61mHjARp1Ho" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T17:23:36.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="rvFlTE5020yPr0TvNZYH" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
     <mxGraphModel dx="954" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -692,6 +692,18 @@
         </mxCell>
         <mxCell id="ldtcaKF831ZHqJrmhCyH-16" value="&lt;u style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Open point:&lt;/u&gt;&amp;nbsp;Galaxy to confirm the creation and passing of agent portal credentials&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D16)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="1142" y="15" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ldtcaKF831ZHqJrmhCyH-28" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Integration with SMS/ Email gateway, already ready as confirmed by Galaxy&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="20" width="150" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ldtcaKF831ZHqJrmhCyH-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ldtcaKF831ZHqJrmhCyH-28" target="w_etyACIegaJ3iJ-0LxL-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="130" as="sourcePoint" />
+            <mxPoint x="1200" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1058" y="63" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
