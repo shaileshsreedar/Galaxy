@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:52:06.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="lvsl9OARKxQW6xy7xx6e" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T05:24:30.712Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="WH1fHFAfESH89HCOiekw" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
     <mxGraphModel dx="2123" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="560" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-8" value="KYC validatation manually (MVP-1)by SM&#39;s(PAN used as unique identifier) &amp;amp; through integration in MVP-2-&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-8" value="KYC validatation by SM&#39;s through integration in MVP-2-&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="530" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-7" target="NBfsZXymPOGGM7-1zEKC-8" edge="1">
@@ -435,7 +435,7 @@
         <mxCell id="wD7Zks4-9CGhQ6oiG0yA-8" value="Interface with CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="806" y="1198" width="82" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4gbzdMavVe_T1oXdfBCZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBfsZXymPOGGM7-1zEKC-18" target="NBfsZXymPOGGM7-1zEKC-24">
+        <mxCell id="4gbzdMavVe_T1oXdfBCZ-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-18" target="NBfsZXymPOGGM7-1zEKC-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="900" as="sourcePoint" />
             <mxPoint x="620" y="850" as="targetPoint" />
@@ -444,10 +444,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4gbzdMavVe_T1oXdfBCZ-2" value="&amp;nbsp;Admin uploads screenshot of PAN lookup page in CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4gbzdMavVe_T1oXdfBCZ-2" value="&amp;nbsp;Admin uploads screenshot of PAN lookup page in CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="794" y="718" width="180" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="4gbzdMavVe_T1oXdfBCZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBfsZXymPOGGM7-1zEKC-96" target="4gbzdMavVe_T1oXdfBCZ-2">
+        <mxCell id="4gbzdMavVe_T1oXdfBCZ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-96" target="4gbzdMavVe_T1oXdfBCZ-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="760" as="sourcePoint" />
             <mxPoint x="860" y="710" as="targetPoint" />
