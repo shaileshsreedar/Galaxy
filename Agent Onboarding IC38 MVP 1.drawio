@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:54:56.553Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="ciXJAiMmr7D2NIplD5C1" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T12:20:46.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="u6NurBgtGK_K9vpkOBVE" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="795" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="15" y="277" width="61" height="35" as="geometry" />
         </mxCell>
         <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-7" value="Sales Manager fills the MIS form and the relevant fields to be captured in form 1A as a subset in the CRM (data as received by the agent through call/ mail etc)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="421.5" width="170" height="100" as="geometry" />
+          <mxGeometry x="275" y="455" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-9" value="SM identifies and selects the type of Agent assigned (CRM Dropdown value)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="407" y="257.5" width="100" height="74" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-10" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Provision to save the application data as a draft is required as many info about the agents might not be available immediately.&lt;/div&gt;&lt;div&gt;2. Only after all the mandatory fields are filled in the application, the process should move to the next stage (Blueprint - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. Provision to upload the documents in CRM (No. of upload features)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="16" y="384.31" width="240" height="174.38" as="geometry" />
+          <mxGeometry x="12" y="417.81" width="240" height="174.38" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-10" target="W-MlJIcmKjAAyfEWoJ3Q-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,7 +94,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-12" value="SM&#39;s uploads the relevant KYC/ Application documents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="553.12" width="140" height="50" as="geometry" />
+          <mxGeometry x="290" y="606.87" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-7" target="NBfsZXymPOGGM7-1zEKC-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -660,7 +660,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldtcaKF831ZHqJrmhCyH-5" value="&lt;u&gt;Open point:&lt;/u&gt; Galaxy to confirm the creation and passing of agent portal credentials &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D15)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ldtcaKF831ZHqJrmhCyH-5" value="&lt;u style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Open point:&lt;/u&gt; Galaxy to confirm the creation and passing of agent portal credentials &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D15)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1149" y="40" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ldtcaKF831ZHqJrmhCyH-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ldtcaKF831ZHqJrmhCyH-5" target="NBfsZXymPOGGM7-1zEKC-107">
