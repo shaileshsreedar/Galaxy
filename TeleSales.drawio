@@ -1,56 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T13:47:57.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Ur3vWOPa4pj_cfJmAK9y" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T10:35:02.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Kl0pR9PdYyTEoWopoWib" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1122" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="15KNfyLsuPqZmDbi_dlv-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="90" y="50" width="1050" height="610" as="geometry" />
-        </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="15KNfyLsuPqZmDbi_dlv-5" target="8dm4q_V4aPKoPHy_YZsy-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-2" target="8dm4q_V4aPKoPHy_YZsy-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-2" value="Lead imported into CRM manually by Telesales caller (CRM user)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-2" target="8dm4q_V4aPKoPHy_YZsy-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="270" />
-              <mxPoint x="400" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-2" value="Lead imported into CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-3" target="8dm4q_V4aPKoPHy_YZsy-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="170" />
-              <mxPoint x="600" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-3" value="Lead Qualification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-4" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-3" value="IVR to be triggered to the uploaded calling base from the dialler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="432.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-4" value="Lead Scoring" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-5" value="Lead Assignment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-6" target="8dm4q_V4aPKoPHy_YZsy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-6" value="Tele caller&amp;nbsp;&lt;div&gt;makes call&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-7" value="Call Back" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827" y="90" width="120" height="60" as="geometry" />
@@ -65,22 +40,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-8" value="Customer&lt;div&gt;Decides&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="215" width="120" height="110" as="geometry" />
+          <mxGeometry x="1160" y="190" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-9" value="Not Interested" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-10" target="8dm4q_V4aPKoPHy_YZsy-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-10" value="Interested" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="898.75" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-11" target="8dm4q_V4aPKoPHy_YZsy-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Send Proposal" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="827" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="898.75" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-12" target="8dm4q_V4aPKoPHy_YZsy-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,17 +81,7 @@
           <mxGeometry x="1160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-15" value="Records saved in Zoho CRM as customers in a separate module for customer handling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="505" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="270" />
-              <mxPoint x="400" y="170" />
-              <mxPoint x="439" y="170" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="250" y="550" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="15KNfyLsuPqZmDbi_dlv-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-15" target="15KNfyLsuPqZmDbi_dlv-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -125,13 +90,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="15KNfyLsuPqZmDbi_dlv-2" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="460" y="522.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="440" y="567.5" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="15KNfyLsuPqZmDbi_dlv-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="125" y="175" width="80" height="40" as="geometry" />
+          <mxGeometry x="100" y="140" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="15KNfyLsuPqZmDbi_dlv-5" value="Lead" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="250" width="70" height="40" as="geometry" />
+        <mxCell id="15KNfyLsuPqZmDbi_dlv-5" value="Lead sourcing through various sources from the market" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="80" y="235" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="15KNfyLsuPqZmDbi_dlv-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="15KNfyLsuPqZmDbi_dlv-3" target="15KNfyLsuPqZmDbi_dlv-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -139,8 +104,59 @@
             <mxPoint x="790" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="15KNfyLsuPqZmDbi_dlv-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;CRM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="80" width="130" height="30" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-1" value="Telesales campaign management (Tag the leads based on call based campaigns)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-1" target="8dm4q_V4aPKoPHy_YZsy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-3" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Integration of Telesales CRM user to Agent portal to support with policy purchase journey&lt;/div&gt;&lt;div&gt;2. Integration of CRM with dialler for customer calling&lt;/div&gt;&lt;div&gt;3. Multiple users shall upload the leads&lt;/div&gt;&lt;div&gt;4.Based on the lead source, respective zonal manager shall be tagged to these leads&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="345" width="245" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-3" target="8dm4q_V4aPKoPHy_YZsy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="420" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dm4q_V4aPKoPHy_YZsy-2" target="8dm4q_V4aPKoPHy_YZsy-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-6" value="1.Integration of CRM and dialler&lt;div&gt;2. SSO to be ensured for all applications (CRM, dialler, agent and web portal)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="403.75" y="130" width="177.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.497;exitY=0.865;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-6" target="8dm4q_V4aPKoPHy_YZsy-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-8" value="Data wash happens in dialler, where all the DNC customer contacts are filtered out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-9" value="Dialler mail feedback&lt;div&gt;feedback from notes, notes from customer support &amp;amp;TCS banks&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="Any response from the customer through IVR, shall be captured as hot leads in CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="240" width="148.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dm4q_V4aPKoPHy_YZsy-3" target="0je7gwXj_GNrerZqdTDB-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-8" target="0je7gwXj_GNrerZqdTDB-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="330" as="sourcePoint" />
+            <mxPoint x="1030" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
