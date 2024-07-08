@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T07:24:10.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="36ChG2gjzU2MoUqXZTkd" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T07:38:37.898Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="u9wTZamZ5R9zIIWNM7ou" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1949" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-8" value="Data wash happens in dialler, where all the DNC customer contacts are filtered out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380.75" y="240" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-9" value="Dialler mail feedback&lt;div&gt;feedback from notes, notes from customer support &amp;amp;TCS bancs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="If any response received from the customer, a separate campaign for hot calling of leads sourced through IVR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="235" width="148.75" height="70" as="geometry" />
@@ -486,8 +483,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-83" value="&lt;b&gt;&lt;u&gt;Dialer Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="120" height="130" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-83" value="&lt;b&gt;&lt;u&gt;Dialer Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;&lt;div&gt;2. Dialler functionalities to be checked and Integrated&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="625" y="370" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-83" target="0je7gwXj_GNrerZqdTDB-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
