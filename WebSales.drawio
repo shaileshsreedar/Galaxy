@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:13:05.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Q2RCA-0-ZSpQ0QbtlKZL" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T08:44:03.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oBVYZW8pSykktQjuS4hS" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
     <mxGraphModel dx="3364" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,23 +7,27 @@
         <mxCell id="DHG3hZiEQoI8j79bsbjd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-36">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-1" value="Leads will be sourced though various digital modes&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2160" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-2" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-2" target="fGk7OGRNWrDz0cRM8d9a-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2100" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-2" value="Social media" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2300" y="25" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2245" y="312.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-3" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-3" target="fGk7OGRNWrDz0cRM8d9a-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-3" value="corporate website" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2300" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2245" y="227.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-13" target="fGk7OGRNWrDz0cRM8d9a-16">
           <mxGeometry relative="1" as="geometry" />
@@ -221,8 +225,8 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-114" target="fGk7OGRNWrDz0cRM8d9a-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-114" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Automatically add to the calling base post the specified time.&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="-2.5" width="120" height="80" as="geometry" />
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-114" value="1.Automatically add to the calling base post the specified time.&lt;div&gt;2. Call the customer with different agent for 2nd time&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.21875;" parent="1" vertex="1">
+          <mxGeometry x="-740" y="-2.5" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-115" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-912.75" y="-60" width="72.75" height="35" as="geometry" />
@@ -259,7 +263,7 @@
         <mxCell id="DHG3hZiEQoI8j79bsbjd-1" value="Login into CRM &amp;amp; Dialler (SSO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1990" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-7" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecasters shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.12987012987012986;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-7" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Callers shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.12987012987012986;" vertex="1" parent="1">
           <mxGeometry x="-1740" y="263.75" width="280" height="157.5" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Team leaders and Branch Managers&amp;nbsp; Login into CRM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -283,13 +287,36 @@
           <mxGeometry x="-1920" y="-144" width="180" height="108" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-36" value="&lt;b&gt;&lt;u&gt;Dialer Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
-          <mxGeometry x="-2240" y="263.75" width="150" height="93" as="geometry" />
+          <mxGeometry x="-2270" y="-144" width="150" height="93" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-43" target="fGk7OGRNWrDz0cRM8d9a-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-43" value="Web callers shall have pre-defined script based on campaign" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1350" y="-220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-57" target="DHG3hZiEQoI8j79bsbjd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-57" value="Calls picked in IVR but no response,&lt;div&gt;Call rejected, call not connected&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-59" target="fGk7OGRNWrDz0cRM8d9a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-65" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;responds&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;in WhatsApp&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;or SMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DHG3hZiEQoI8j79bsbjd-61">
+          <mxGeometry x="-0.6649" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-59" value="1. Customers to be reconnected based on defined frequency&lt;div&gt;2. If no response is got after specified attempts, trigger a WhatsApp or SMS message to get the interest of the customer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2195" y="484" width="190" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-63" target="fGk7OGRNWrDz0cRM8d9a-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-63" value="Product brochures to be saved in Product module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-842.5" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
