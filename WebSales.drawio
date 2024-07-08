@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T11:05:07.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="HbuqNi9VeX_65nCl3LrM" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T11:05:50.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="p6hk0SaAtxqt50ZSCVaG" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
     <mxGraphModel dx="3701" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -298,9 +298,9 @@
         <mxCell id="DHG3hZiEQoI8j79bsbjd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-59" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-65" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;responds&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;in WhatsApp&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;or SMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DHG3hZiEQoI8j79bsbjd-61" vertex="1" connectable="0">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-65" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;responds &amp;nbsp;in&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;WhatsApp&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;or SMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DHG3hZiEQoI8j79bsbjd-61" vertex="1" connectable="0">
           <mxGeometry x="-0.6649" y="1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-59" value="1. Customers to be reconnected based on defined frequency&lt;div&gt;2. If no response is got after specified attempts, trigger a WhatsApp or SMS message to get the interest of the customer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
