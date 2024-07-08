@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T16:27:05.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Nj50RsTzuQa5SxAfX9ht" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:30:18.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="j7dg4Hlxxe4BY1nltkbm" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="2532" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,7 +516,7 @@
         <mxCell id="ldtcaKF831ZHqJrmhCyH-16" value="&lt;u style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Open point:&lt;/u&gt;&amp;nbsp;Galaxy to confirm the creation and passing of agent portal credentials&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D15)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="399.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ldtcaKF831ZHqJrmhCyH-20" value="Leads through webforms from agent portal -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ldtcaKF831ZHqJrmhCyH-20" value="Leads flow through webforms from Galaxy&#39;s corporate website -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="157.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ldtcaKF831ZHqJrmhCyH-21" value="SM allocated based on leads originated regions/zones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -573,7 +573,7 @@
         <mxCell id="LyLIEj7PnTEQsNUxyE-x-3" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Integration with SMS/ Email gateway, already ready as confirmed by Galaxy&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="993" y="282.5" width="150" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="y44ZmRM4v8xb9tRhu17s-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LyLIEj7PnTEQsNUxyE-x-3" target="w_etyACIegaJ3iJ-0LxL-5">
+        <mxCell id="y44ZmRM4v8xb9tRhu17s-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LyLIEj7PnTEQsNUxyE-x-3" target="w_etyACIegaJ3iJ-0LxL-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="330" as="sourcePoint" />
             <mxPoint x="1440" y="280" as="targetPoint" />
