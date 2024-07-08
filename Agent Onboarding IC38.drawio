@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T04:03:17.741Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="jq01vhSzqySkkveNiJJj" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:28:42.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="JY4o9-vd_q-eOMrT1Hp7" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="2123" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -673,7 +673,7 @@
         <mxCell id="ldtcaKF831ZHqJrmhCyH-16" value="&lt;u style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Open point:&lt;/u&gt;&amp;nbsp;Galaxy to confirm the creation and passing of agent portal credentials&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D15)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1141" y="-20" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ldtcaKF831ZHqJrmhCyH-20" value="Leads through webforms from agent portal -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ldtcaKF831ZHqJrmhCyH-20" value="Leads flow through webforms from Galaxy&#39;s corporate website -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="157.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ldtcaKF831ZHqJrmhCyH-21" value="SM allocated based on leads originated regions/zones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -739,31 +739,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-2" value="Coder downloads the hall ticket from III portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-2" value="Coder downloads the hall ticket from III portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1305" y="535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NBfsZXymPOGGM7-1zEKC-78" target="WrOScfugKH2sa4_5sZNI-2">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-78" target="WrOScfugKH2sa4_5sZNI-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1300" y="610" as="sourcePoint" />
             <mxPoint x="1530" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-6" value="SM&#39;s shares hall ticket with the agents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-6" value="SM&#39;s shares hall ticket with the agents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="535.01" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WrOScfugKH2sa4_5sZNI-2" target="NBfsZXymPOGGM7-1zEKC-84">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WrOScfugKH2sa4_5sZNI-2" target="NBfsZXymPOGGM7-1zEKC-84" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="640" as="sourcePoint" />
             <mxPoint x="1400" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_etyACIegaJ3iJ-0LxL-2" target="WrOScfugKH2sa4_5sZNI-6">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-2" target="WrOScfugKH2sa4_5sZNI-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="600" as="sourcePoint" />
             <mxPoint x="1580" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WrOScfugKH2sa4_5sZNI-6" target="NBfsZXymPOGGM7-1zEKC-88">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WrOScfugKH2sa4_5sZNI-6" target="NBfsZXymPOGGM7-1zEKC-88" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1530" y="600" as="sourcePoint" />
             <mxPoint x="1790" y="400" as="targetPoint" />
