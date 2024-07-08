@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T11:04:22.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="itPFtxR8XNU8TB0mZVRA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T11:05:07.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="HbuqNi9VeX_65nCl3LrM" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
     <mxGraphModel dx="3701" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -277,11 +277,11 @@
             <mxPoint x="-1770" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-34" target="DHG3hZiEQoI8j79bsbjd-8" edge="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.479;exitY=0.885;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-34" target="DHG3hZiEQoI8j79bsbjd-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-34" value="1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved)&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="-1920" y="-144" width="180" height="108" as="geometry" />
+          <mxGeometry x="-1916" y="-143" width="180" height="108" as="geometry" />
         </mxCell>
         <mxCell id="DHG3hZiEQoI8j79bsbjd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-43" target="fGk7OGRNWrDz0cRM8d9a-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
