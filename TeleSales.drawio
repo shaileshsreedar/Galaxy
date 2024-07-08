@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T07:04:10.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="tKVHP6Dx9gUv4AboCCte" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T07:24:10.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="36ChG2gjzU2MoUqXZTkd" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1949" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,8 +218,8 @@
         <mxCell id="0je7gwXj_GNrerZqdTDB-28" value="Update the disposition in CRM with call back time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-29" value="Dialler to pause the live call &amp;amp; connect with call back customer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="75" width="120" height="60" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-29" value="Dialler to pause the live call (15 mins before connecting with call back customer)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="70" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-29" target="8dm4q_V4aPKoPHy_YZsy-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -428,8 +428,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="Validations:&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="330" width="170" height="120" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecasters shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="785" y="330" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dm4q_V4aPKoPHy_YZsy-7" target="0je7gwXj_GNrerZqdTDB-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -474,8 +474,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-81" value="Dashboard to track the user calling status / metrics on daily basis" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-81" value="1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved)&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="45" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-81" target="0je7gwXj_GNrerZqdTDB-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -483,6 +483,19 @@
             <mxPoint x="580" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="920" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-83" value="&lt;b&gt;&lt;u&gt;Dialer Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="380" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-83" target="0je7gwXj_GNrerZqdTDB-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="330" as="sourcePoint" />
+            <mxPoint x="840" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="340" />
+              <mxPoint x="614" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
