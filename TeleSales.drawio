@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T07:02:14.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="ieSeNrJSmXkMm2KcC_U2" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T07:04:10.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="tKVHP6Dx9gUv4AboCCte" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1949" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
             <mxPoint x="1270" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-74" value="Telecaller Agent login to CRM &amp;amp; Dialler (SSO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-74" value="Telecaller login to CRM &amp;amp; Dialler (SSO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-74" target="0je7gwXj_GNrerZqdTDB-19">
