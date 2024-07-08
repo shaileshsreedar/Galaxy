@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T05:45:35.609Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="K4wVWwb-JKRYxq7295o-" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T05:46:53.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="VucfTrBHWhW50PB_5kEj" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1761" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,6 +339,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-70" value="Online payment&amp;nbsp;&lt;div&gt;flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0je7gwXj_GNrerZqdTDB-52">
+          <mxGeometry x="0.0291" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-54" value="Caller shall schedule an appointment in CRM for cheque / cash collection and collection of required documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="800" width="140" height="70" as="geometry" />
         </mxCell>
@@ -356,6 +361,11 @@
               <mxPoint x="1370" y="760" />
               <mxPoint x="1490" y="760" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-71" value="Offline payment&lt;div&gt;&amp;nbsp;flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0je7gwXj_GNrerZqdTDB-57">
+          <mxGeometry x="0.0793" relative="1" as="geometry">
+            <mxPoint x="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-54" target="0je7gwXj_GNrerZqdTDB-55">
