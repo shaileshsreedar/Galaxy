@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:17:57.567Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="7HOFKsHuqxNYvxeQmWCA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T08:24:09.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Z4dA_yUSYTvJQX7FREiK" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1949" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,8 @@
             <mxPoint x="860" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-17" value="Telesales and web sales each to have a separate channel ID to compare the campaigns." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="262" y="360" width="150" height="80" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-17" value="1. Telesales and web sales each to have a separate channel ID to compare the campaigns.&lt;div&gt;2. Separate channel ID to be created to track customers redirected from customer support team for sales call&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="360" width="188" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-17" target="8dm4q_V4aPKoPHy_YZsy-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -425,7 +425,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecasters shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecasters shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="330" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dm4q_V4aPKoPHy_YZsy-7" target="0je7gwXj_GNrerZqdTDB-28">
