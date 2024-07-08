@@ -1,19 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:44:44.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TUL-R8ITvsalSs6uFCuY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T11:04:22.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="itPFtxR8XNU8TB0mZVRA" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
-    <mxGraphModel dx="3364" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3701" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-36">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-1" target="DHG3hZiEQoI8j79bsbjd-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-1" value="Leads will be sourced though various digital modes&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2160" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-2" target="fGk7OGRNWrDz0cRM8d9a-1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-2" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-2100" y="350" />
@@ -23,13 +20,13 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-2" value="Social media" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2245" y="312.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-3" target="fGk7OGRNWrDz0cRM8d9a-1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-3" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-3" value="corporate website" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2245" y="227.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-13" target="fGk7OGRNWrDz0cRM8d9a-16">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-13" target="fGk7OGRNWrDz0cRM8d9a-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-13" value="The campaigns to be created" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -43,19 +40,19 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-16" value="User allocation to this campaigns&amp;nbsp;manually by Web Sales Team" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-19" target="fGk7OGRNWrDz0cRM8d9a-16">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-19" target="fGk7OGRNWrDz0cRM8d9a-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-19" value="A separate campaign created for the corporate website drop out and surfing leads for hot lead" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1490" y="-50" width="150" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-22" target="fGk7OGRNWrDz0cRM8d9a-16">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-22" target="fGk7OGRNWrDz0cRM8d9a-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-22" value="Tagged to the Zonal Manager and classified on the basis of city and pin code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="115" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-27" target="DHG3hZiEQoI8j79bsbjd-1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-27" target="DHG3hZiEQoI8j79bsbjd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1930" y="200" as="targetPoint" />
           </mxGeometry>
@@ -110,8 +107,8 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-89" target="fGk7OGRNWrDz0cRM8d9a-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-89" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;call the customer with in 45 seconds of the lead creation&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="250" width="140" height="85" as="geometry" />
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-89" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. call the customer with in 45 seconds of the lead creation&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1265" y="220" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-91" target="fGk7OGRNWrDz0cRM8d9a-93" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +152,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-100" target="fGk7OGRNWrDz0cRM8d9a-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-5" value="Online Payment&lt;div&gt;Flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGk7OGRNWrDz0cRM8d9a-128">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-5" value="Online Payment&lt;div&gt;Flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fGk7OGRNWrDz0cRM8d9a-128" vertex="1" connectable="0">
           <mxGeometry x="0.0102" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -163,7 +160,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-100" target="fGk7OGRNWrDz0cRM8d9a-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-6" value="Offline Payment&lt;div&gt;Flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fGk7OGRNWrDz0cRM8d9a-129">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-6" value="Offline Payment&lt;div&gt;Flow&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fGk7OGRNWrDz0cRM8d9a-129" vertex="1" connectable="0">
           <mxGeometry x="-0.0456" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -236,13 +233,13 @@
             <mxPoint x="-988.75" y="725" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-141" target="fGk7OGRNWrDz0cRM8d9a-144">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-141" target="fGk7OGRNWrDz0cRM8d9a-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-141" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Update the disposition in CRM with call back time&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1070.5" y="-117" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-143" target="fGk7OGRNWrDz0cRM8d9a-141">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-143" target="fGk7OGRNWrDz0cRM8d9a-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-143" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -254,68 +251,65 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-144" value="Dialler to pause the live call &amp;amp; connect with call back customer&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1230" y="-35" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-1" target="DHG3hZiEQoI8j79bsbjd-9">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-1" target="DHG3hZiEQoI8j79bsbjd-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-1" target="DHG3hZiEQoI8j79bsbjd-8">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-1" target="DHG3hZiEQoI8j79bsbjd-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-1" value="Login into CRM &amp;amp; Dialler (SSO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-1" value="Login into CRM &amp;amp; Dialler (SSO)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1990" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-7" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Callers shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.12987012987012986;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-7" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Callers shall have access and visibility of leads mapped to their respective campaign.&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.12987012987012986;" parent="1" vertex="1">
           <mxGeometry x="-1740" y="263.75" width="280" height="157.5" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Team leaders and Branch Managers&amp;nbsp; Login into CRM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Team leaders and Branch Managers&amp;nbsp; Login into CRM&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-9" target="fGk7OGRNWrDz0cRM8d9a-22">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-9" target="fGk7OGRNWrDz0cRM8d9a-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-9" value="Web Sales Login into CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-9" value="Web Sales caller Login into CRM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1810" y="115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-7" target="DHG3hZiEQoI8j79bsbjd-9">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-7" target="DHG3hZiEQoI8j79bsbjd-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1770" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-34" target="DHG3hZiEQoI8j79bsbjd-8">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-34" target="DHG3hZiEQoI8j79bsbjd-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-34" value="1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved)&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-34" value="1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved)&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="-144" width="180" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-36" value="&lt;b&gt;&lt;u&gt;Dialer Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;To have provisions to connect with customers through email, WA, SMS (instant)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.16666666666666666;" vertex="1" parent="1">
-          <mxGeometry x="-2270" y="-144" width="150" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-43" target="fGk7OGRNWrDz0cRM8d9a-144">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-43" target="fGk7OGRNWrDz0cRM8d9a-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-43" value="Web callers shall have pre-defined script based on campaign" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-43" value="Web callers shall have pre-defined script based on campaign" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1350" y="-220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-57" target="DHG3hZiEQoI8j79bsbjd-59">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DHG3hZiEQoI8j79bsbjd-57" target="DHG3hZiEQoI8j79bsbjd-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-57" value="Calls picked in IVR but no response,&lt;div&gt;Call rejected, call not connected&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-57" value="Calls picked in IVR but no response,&lt;div&gt;Call rejected, call not connected&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1920" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-59" target="fGk7OGRNWrDz0cRM8d9a-1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DHG3hZiEQoI8j79bsbjd-59" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-65" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;responds&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;in WhatsApp&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;or SMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DHG3hZiEQoI8j79bsbjd-61">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-65" value="&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;responds&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;in WhatsApp&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;or SMS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DHG3hZiEQoI8j79bsbjd-61" vertex="1" connectable="0">
           <mxGeometry x="-0.6649" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-59" value="1. Customers to be reconnected based on defined frequency&lt;div&gt;2. If no response is got after specified attempts, trigger a WhatsApp or SMS message to get the interest of the customer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-59" value="1. Customers to be reconnected based on defined frequency&lt;div&gt;2. If no response is got after specified attempts, trigger a WhatsApp or SMS message to get the interest of the customer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-2195" y="484" width="190" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHG3hZiEQoI8j79bsbjd-63" target="fGk7OGRNWrDz0cRM8d9a-100">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DHG3hZiEQoI8j79bsbjd-63" target="fGk7OGRNWrDz0cRM8d9a-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DHG3hZiEQoI8j79bsbjd-63" value="Product brochures to be saved in Product module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="DHG3hZiEQoI8j79bsbjd-63" value="Product brochures to be saved in Product module" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-842.5" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
