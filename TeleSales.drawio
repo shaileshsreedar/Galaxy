@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T08:24:09.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Z4dA_yUSYTvJQX7FREiK" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T08:28:09.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="MuAmNVGDcBbfgSSsyLVN" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1949" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,8 +154,8 @@
             <mxPoint x="652" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="Customers to be reconnected based on defined frequency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="482" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="1. Customers to be reconnected based on defined frequency&lt;div&gt;2. If no response is got after specified attempts, trigger a WhatsApp or SMS message to get the interest of the customer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="476" y="420" width="132" height="130" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-10" target="0je7gwXj_GNrerZqdTDB-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -494,6 +494,21 @@
               <mxPoint x="700" y="340" />
               <mxPoint x="614" y="340" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-15" target="0je7gwXj_GNrerZqdTDB-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="390" as="sourcePoint" />
+            <mxPoint x="790" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="542" y="620" />
+              <mxPoint x="1070" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0je7gwXj_GNrerZqdTDB-86" value="Customer responds in WhatsApp or SMS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0je7gwXj_GNrerZqdTDB-85">
+          <mxGeometry x="-0.2768" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
