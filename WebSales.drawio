@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T19:13:30.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="84wQgJHkDZrL20bVukgk" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T04:39:59.084Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oPydvEoQPtzvEACFwYx8" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
     <mxGraphModel dx="3364" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-50" target="fGk7OGRNWrDz0cRM8d9a-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-50" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-50" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2030" y="130" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-66" target="fGk7OGRNWrDz0cRM8d9a-91">
@@ -109,25 +109,25 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-91" target="fGk7OGRNWrDz0cRM8d9a-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-91" value="Process the case in agency portal" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-91" value="Process the case in agency portal" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1102.5" y="317.5" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-93" target="fGk7OGRNWrDz0cRM8d9a-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-93" value="Functionalities like&lt;div&gt;1. Quick quote&lt;/div&gt;&lt;div&gt;2. Quote sharing&lt;/div&gt;&lt;div&gt;3. Data entry of proposal form shall be available for caller in Agency portal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-93" value="Functionalities like&lt;div&gt;1. Quick quote&lt;/div&gt;&lt;div&gt;2. Quote sharing&lt;/div&gt;&lt;div&gt;3. Data entry of proposal form shall be available for caller in Agency portal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1135" y="420" width="190" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-95" target="fGk7OGRNWrDz0cRM8d9a-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-95" value="Customer makes online Payment in Agency portal through payment gateway" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-95" value="Customer makes online Payment in Agency portal through payment gateway" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="730" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-96" target="fGk7OGRNWrDz0cRM8d9a-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-96" value="Details Sent to TCS BANCS" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-96" value="Details Sent to TCS BANCS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1230" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-97" target="fGk7OGRNWrDz0cRM8d9a-98">
@@ -151,7 +151,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-100" target="fGk7OGRNWrDz0cRM8d9a-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-100" value="Required data sent to customers and processed in Agency portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-100" value="Required data sent to customers and processed in Agency portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1104.75" y="574" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-101" target="fGk7OGRNWrDz0cRM8d9a-102">
@@ -175,13 +175,13 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-104" target="fGk7OGRNWrDz0cRM8d9a-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-104" value="GHI executive processes the case in the agent portal in presence of the customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-104" value="GHI executive processes the case in the agent portal in presence of the customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-937.5" y="940" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-105" target="fGk7OGRNWrDz0cRM8d9a-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-105" value="GHI executive shall deposit the cheque or cash in the branch to process the payment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-105" value="GHI executive shall deposit the cheque or cash in the branch to process the payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1100" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-106" target="fGk7OGRNWrDz0cRM8d9a-91">
@@ -196,7 +196,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-110" target="fGk7OGRNWrDz0cRM8d9a-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-110" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-110" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="210" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-113" target="fGk7OGRNWrDz0cRM8d9a-115">
@@ -211,7 +211,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-114" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Automatically add to the calling base post the specified time.&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="-2.5" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-115" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-115" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-912.75" y="-70" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="fGk7OGRNWrDz0cRM8d9a-123">
