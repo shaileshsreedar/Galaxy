@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T12:12:52.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PPgDySI-da5I-hUFSE6W" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T13:30:25.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="4JKfx6my-bQyC32HzjMy" version="24.6.4" type="github">
   <diagram name="Page-1" id="cPXebE8d43cmAomiVw6z">
-    <mxGraphModel dx="3364" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3132" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-49" value="Not Interested" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-917.5" y="-230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-50" target="fGk7OGRNWrDz0cRM8d9a-1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-50" target="fGk7OGRNWrDz0cRM8d9a-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-50" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -107,7 +107,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-89" target="fGk7OGRNWrDz0cRM8d9a-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fGk7OGRNWrDz0cRM8d9a-89" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. call the customer with in 45 seconds of the lead creation&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. To have provisions to connect with customers through email, WA, SMS (instant) -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;size=0.16901408450704225;" parent="1" vertex="1">
+        <mxCell id="fGk7OGRNWrDz0cRM8d9a-89" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. call the customer with in 45 seconds of the lead creation ( Allocation and call to happen within this timeline)&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. To have provisions to connect with customers through email, WA, SMS (instant) -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;size=0.16901408450704225;" parent="1" vertex="1">
           <mxGeometry x="-1355" y="-117.5" width="240" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-91" target="fGk7OGRNWrDz0cRM8d9a-93" edge="1">
@@ -239,7 +239,7 @@
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-141" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Update the disposition in CRM with call back time&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1085" y="-572" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fGk7OGRNWrDz0cRM8d9a-143" target="fGk7OGRNWrDz0cRM8d9a-141">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fGk7OGRNWrDz0cRM8d9a-143" target="fGk7OGRNWrDz0cRM8d9a-141" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fGk7OGRNWrDz0cRM8d9a-143" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D18&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -289,43 +289,43 @@
         <mxCell id="DHG3hZiEQoI8j79bsbjd-63" value="Product brochures to be saved in Product module (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D20&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="-857.5" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIpMBF-xfvnBNTtfXeh2-2" target="fGk7OGRNWrDz0cRM8d9a-43">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PIpMBF-xfvnBNTtfXeh2-2" target="fGk7OGRNWrDz0cRM8d9a-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-2" value="Tele callers shall have pre-defined script based on campaign (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D17&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-2" value="Tele callers shall have pre-defined script based on campaign (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D17&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1375" y="-434.5" width="140" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1800" y="731" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-7" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-7" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1763" y="731" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="731" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-9" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-9" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1615" y="731" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1504" y="731" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-11" value="Dialler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-11" value="Dialler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1485" y="731" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-12" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-12" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1414" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-13" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-13" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1381" y="730" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-14" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-14" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1298" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-15" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-15" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1259" y="730" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PIpMBF-xfvnBNTtfXeh2-16" value="Websales Process flow - Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="PIpMBF-xfvnBNTtfXeh2-16" value="Websales Process flow - Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="-1718" y="-760" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
