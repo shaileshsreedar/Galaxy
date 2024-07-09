@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T08:46:34.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="1Ak5edWIvOeqRit4XPKz" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T10:17:04.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Fp10phl_lmLksmEVGf6i" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
-    <mxGraphModel dx="1621" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1949" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-10" value="Interested" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1335" y="360" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Process the case in agency portal - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Process the case in agency portal - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="480" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-12" value="Customer makes online Payment in Agency portal through payment gateway" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -57,7 +57,7 @@
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-13" value="Details Sent to TCS BANCS" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1170" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5 &lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D23&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-15" value="Records saved in Zoho CRM as customers in a separate module for customer handling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -167,7 +167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-19" value="Dialler auto assigns the hot leads based on the assignment logic (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D15&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-19" value="Dialler auto assigns the hot leads based on the assignment logic (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-19" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
@@ -224,13 +224,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-33" value="Remove the customer from the calling base for a specified period of time. - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D18&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-33" value="Remove the customer from the calling base for a specified period of time. - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D19&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1455" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="80" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="1. Automatically add to the calling base post the specified time.&lt;div&gt;2.&lt;span style=&quot;background-color: rgb(224, 237, 212);&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;D19&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="&lt;span style=&quot;background-color: rgb(224, 237, 212);&quot;&gt;1. Automatically add to the calling base post the specified time.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(224, 237, 212);&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(224, 237, 212); font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left; background-color: rgb(255, 64, 255);&quot;&gt;D20&lt;/span&gt;&lt;span style=&quot;background-color: rgb(224, 237, 212); font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1620" y="130" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-35" target="0je7gwXj_GNrerZqdTDB-33" edge="1">
@@ -260,7 +260,7 @@
             <mxPoint x="1350" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-42" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D17&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-42" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D18&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="970" y="-17.5" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-42" target="0je7gwXj_GNrerZqdTDB-28" edge="1">
@@ -278,7 +278,7 @@
             <mxPoint x="1350" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-46" value="Channel ID and employee ID to be passed to Agent portal from CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-46" value="Channel ID and employee ID to be passed to Agent portal from CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D21&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="460" width="127.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-46" target="8dm4q_V4aPKoPHy_YZsy-11" edge="1">
@@ -320,10 +320,10 @@
             <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-54" value="Caller shall schedule an appointment in CRM for cheque / cash collection and collection of required documents (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D21&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-54" value="Caller shall schedule an appointment in CRM for cheque / cash collection and collection of required documents (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D23&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1420" y="800" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-55" value="GHI executive will be mapped for customer visit (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D22&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-55" value="GHI executive will be mapped for customer visit (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D24&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1430" y="895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-56" value="Communication sent to customer for GHI executive visit with executive name, date and time of visit (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -404,7 +404,7 @@
             <mxPoint x="870" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-68" value="Tele callers shall have pre-defined script based on campaign (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-68" value="Tele callers shall have pre-defined script based on campaign (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D17&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1020" y="135" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-68" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
@@ -416,7 +416,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D13&lt;/span&gt;)&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecaller shall have access and visibility of leads mapped to their respective campaign - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D24&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D14&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D13&lt;/span&gt;)&lt;div&gt;2. Option to disable the target shall also be provided&lt;/div&gt;&lt;div&gt;3. System should not allow user to log off before achieving the target (non mandatory)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;4. Telecaller shall have access and visibility of leads mapped to their respective campaign - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D14&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5. Widget / screen to be provided to track individual target vs achieved - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D15&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="785" y="330" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-7" target="0je7gwXj_GNrerZqdTDB-28" edge="1">
@@ -497,12 +497,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-86" value="Customer responds in WhatsApp or SMS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0je7gwXj_GNrerZqdTDB-85" vertex="1" connectable="0">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-86" value="Customer responds in WhatsApp or SMS -&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt; I4&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0je7gwXj_GNrerZqdTDB-85" vertex="1" connectable="0">
           <mxGeometry x="-0.2768" y="-3" relative="1" as="geometry">
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-87" value="Product brochures to be saved in Product module (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D20&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-87" value="Product brochures to be saved in Product module (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D22&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1490" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-87" target="0je7gwXj_GNrerZqdTDB-50" edge="1">
@@ -510,6 +510,39 @@
             <mxPoint x="1370" y="660" as="sourcePoint" />
             <mxPoint x="1420" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-3" value="Telesales Process flow - Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1033" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-5" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="1033" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="1033" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-7" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="732" y="1033" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="843" y="1033" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-9" value="Dialler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="862" y="1033" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-10" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="933" y="1032" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-11" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="966" y="1032" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-12" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1049" y="1032" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-13" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1088" y="1032" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
