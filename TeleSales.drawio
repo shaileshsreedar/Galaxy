@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T08:31:48.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="glrBL5QQ-hLJXCg1Kj4p" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T08:46:34.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="1Ak5edWIvOeqRit4XPKz" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
     <mxGraphModel dx="1621" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="0je7gwXj_GNrerZqdTDB-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="80" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="1. Automatically add to the calling base post the specified time.&lt;div&gt;2.&amp;nbsp;&lt;span style=&quot;caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); font-family: inherit; letter-spacing: 0.01px; text-align: left; background-color: rgb(243, 245, 245);&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); font-family: inherit; letter-spacing: 0.01px; text-align: left; background-color: rgb(255, 64, 255);&quot;&gt;D19&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); font-family: inherit; letter-spacing: 0.01px; text-align: left; background-color: rgb(243, 245, 245);&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="1. Automatically add to the calling base post the specified time.&lt;div&gt;2.&lt;span style=&quot;background-color: rgb(224, 237, 212);&quot;&gt;&amp;nbsp;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;D19&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1620" y="130" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-35" target="0je7gwXj_GNrerZqdTDB-33" edge="1">
@@ -278,7 +278,7 @@
             <mxPoint x="1350" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-46" value="Channel ID and employee ID to be passed to Agent portal from CRM" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-46" value="Channel ID and employee ID to be passed to Agent portal from CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="460" width="127.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-46" target="8dm4q_V4aPKoPHy_YZsy-11" edge="1">
@@ -462,7 +462,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-81" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved) - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D12&lt;/span&gt;&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-81" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Dashboard to track the user calling status / metrics on daily basis (Target vs achieved) - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D12&lt;/span&gt;&lt;div&gt;2. Reschedule the leads to other callers of same campaign&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="640" y="38" width="210" height="125" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-81" target="0je7gwXj_GNrerZqdTDB-79" edge="1">
