@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T10:17:56.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="2jR0abWupkQIxnKIL5rw" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:53:38.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="nzW7Fb8WbkOb2FmmmJYr" version="24.6.4" type="github">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
-    <mxGraphModel dx="1949" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-10" value="Interested" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1335" y="360" width="70" height="30" as="geometry" />
+          <mxGeometry x="1342.5" y="360" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Process the case in agency portal - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="480" width="125" height="40" as="geometry" />
@@ -194,8 +194,8 @@
             <mxPoint x="512" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-26" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. Telecaller makes the call to the leads which is tagged only to their respective campaign&lt;/div&gt;&lt;div&gt;2. Dialler associates the calls to the callers available to take calls (assignment logic to be shared by Galaxy)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="330" width="200" height="160" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-26" value="&lt;u&gt;&lt;b&gt;Dialler validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. Telecaller makes the call to the leads which is tagged only to their respective campaign&lt;/div&gt;&lt;div&gt;2. Dialler associates the calls to the callers available to take calls (assignment logic to be shared by Galaxy)&lt;/div&gt;&lt;div&gt;3. Provision to be provided for the caller to take running notes during the call.&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1105" y="325" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-26" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -511,37 +511,37 @@
             <mxPoint x="1420" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-3" value="Telesales Process flow - Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-3" value="Telesales Process flow - Galaxy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="240" y="50" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="547" y="1033" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-5" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-5" value="Outside CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="584" y="1033" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="697" y="1033" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-7" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-7" value="Within CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="732" y="1033" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="843" y="1033" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-9" value="Dialler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-9" value="Dialler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="862" y="1033" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-10" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-10" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="933" y="1032" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-11" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-11" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="966" y="1032" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-12" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-12" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1049" y="1032" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cM6T3bPlFvKYOD0LM07C-13" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="cM6T3bPlFvKYOD0LM07C-13" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1088" y="1032" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
