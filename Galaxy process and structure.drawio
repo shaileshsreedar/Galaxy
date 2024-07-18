@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T13:12:11.379Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="6uyb0_4NihCFfQ_skgC8" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T13:12:39.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xgGTTNma1Waaer5pQW0w" version="24.7.1" type="github">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
     <mxGraphModel dx="954" dy="-561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
@@ -72,13 +72,13 @@
         <mxCell id="knz6iiXWrx1LhUq16YyW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8hLgRWUMYpwpaLwR4hC4-26" target="8hLgRWUMYpwpaLwR4hC4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hLgRWUMYpwpaLwR4hC4-26" value="Dialer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8hLgRWUMYpwpaLwR4hC4-26" value="Dialer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="1795" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8hLgRWUMYpwpaLwR4hC4-27" target="knz6iiXWrx1LhUq16YyW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8hLgRWUMYpwpaLwR4hC4-27" value="Agent Portal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8hLgRWUMYpwpaLwR4hC4-27" value="Agent Portal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="knz6iiXWrx1LhUq16YyW-1" target="knz6iiXWrx1LhUq16YyW-5">
@@ -87,7 +87,7 @@
         <mxCell id="knz6iiXWrx1LhUq16YyW-1" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="knz6iiXWrx1LhUq16YyW-5" value="Commissions for Agents and Incentives for onroll eligible employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="knz6iiXWrx1LhUq16YyW-5" value="Commissions for Agents and Incentives for eligible employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8hLgRWUMYpwpaLwR4hC4-19" target="8hLgRWUMYpwpaLwR4hC4-27">
