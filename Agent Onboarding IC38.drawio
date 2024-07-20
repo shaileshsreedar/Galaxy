@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T10:28:42.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="JY4o9-vd_q-eOMrT1Hp7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T09:49:37.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="c3CJzT-KjccLdd6Ap459" version="24.6.4" type="github">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="2123" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="0TxoYsAdlca8F8hX1XT_-1" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="750" y="117.5" width="70" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-1" value="Potential agents details imported into CRM through manual data upload by Sales Managers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-1" value="Potential agents details updated into CRM manually by Sales Managers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="256.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-3" value="All the agents uploaded by SM is mapped to the respective individual" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -748,7 +748,7 @@
             <mxPoint x="1530" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WrOScfugKH2sa4_5sZNI-6" value="SM&#39;s shares hall ticket with the agents" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WrOScfugKH2sa4_5sZNI-6" value="SM&#39;s shares hall ticket with the agents" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1760" y="535.01" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WrOScfugKH2sa4_5sZNI-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WrOScfugKH2sa4_5sZNI-2" target="NBfsZXymPOGGM7-1zEKC-84" edge="1">
