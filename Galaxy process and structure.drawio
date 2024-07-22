@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T04:57:33.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="ux-VAU30U3U4N5qoKizi" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T05:00:30.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="apvEnyoviiq07HWZsLPb" version="24.7.2" type="github">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
     <mxGraphModel dx="934" dy="-696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
             <mxPoint x="240" y="1900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8hLgRWUMYpwpaLwR4hC4-2" value="Leads" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1800" width="120" height="40" as="geometry" />
+        <mxCell id="8hLgRWUMYpwpaLwR4hC4-2" value="Leads through campaigns and manual update" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1787.5" width="80" height="65" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="8hLgRWUMYpwpaLwR4hC4-5" target="8hLgRWUMYpwpaLwR4hC4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +180,15 @@
         </mxCell>
         <mxCell id="eodbuGr1brfkaizi2-Sv-3" value="Marketing Automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1612" width="790" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eodbuGr1brfkaizi2-Sv-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8hLgRWUMYpwpaLwR4hC4-14" target="8hLgRWUMYpwpaLwR4hC4-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1890" as="sourcePoint" />
+            <mxPoint x="440" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="1820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
