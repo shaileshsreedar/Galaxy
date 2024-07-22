@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T09:36:55.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="HAjKeQeFPhPuUWigeb9g" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T04:57:33.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="ux-VAU30U3U4N5qoKizi" version="24.7.2" type="github">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
-    <mxGraphModel dx="954" dy="-577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="-696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="knz6iiXWrx1LhUq16YyW-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1600" width="830" height="370" as="geometry" />
+          <mxGeometry x="10" y="1540" width="820" height="410" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8hLgRWUMYpwpaLwR4hC4-2" target="8hLgRWUMYpwpaLwR4hC4-26" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -24,11 +24,8 @@
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-6" value="Customer Support" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8hLgRWUMYpwpaLwR4hC4-8" value="Marketting Automation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1890" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8hLgRWUMYpwpaLwR4hC4-9" value="Analytics" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="1930" width="70" height="30" as="geometry" />
+        <mxCell id="8hLgRWUMYpwpaLwR4hC4-9" value="Zoho Analytics &amp;amp; Reports" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1574" width="790" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hLgRWUMYpwpaLwR4hC4-12" target="8hLgRWUMYpwpaLwR4hC4-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,22 +49,22 @@
           <mxGeometry x="520" y="1775" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-20" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1980" width="40" height="60" as="geometry" />
+          <mxGeometry x="40" y="1969" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-21" value="Sales Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="2048" width="60" height="30" as="geometry" />
+          <mxGeometry x="3" y="2008" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-22" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1980" width="40" height="60" as="geometry" />
+          <mxGeometry x="140" y="1968" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-23" value="Agent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="2048" width="60" height="30" as="geometry" />
+          <mxGeometry x="125" y="2010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-24" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1980" width="40" height="60" as="geometry" />
+          <mxGeometry x="250" y="1970" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8hLgRWUMYpwpaLwR4hC4-25" value="Telecaller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="2048" width="60" height="30" as="geometry" />
+          <mxGeometry x="236" y="2007" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8hLgRWUMYpwpaLwR4hC4-26" target="8hLgRWUMYpwpaLwR4hC4-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -87,8 +84,8 @@
         <mxCell id="knz6iiXWrx1LhUq16YyW-1" value="Policy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="knz6iiXWrx1LhUq16YyW-5" value="Commissions for Agents and Incentives for eligible employees" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1660" width="120" height="60" as="geometry" />
+        <mxCell id="knz6iiXWrx1LhUq16YyW-5" value="&lt;b&gt;DMS&lt;/b&gt;&lt;div&gt;Calculation of commissions for Agents and Incentives for eligible employees&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="1655" width="134" height="70" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8hLgRWUMYpwpaLwR4hC4-19" target="8hLgRWUMYpwpaLwR4hC4-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -138,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-15" value="IRDAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="400" y="1990" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="1980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="knz6iiXWrx1LhUq16YyW-15" target="8hLgRWUMYpwpaLwR4hC4-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,25 +144,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="knz6iiXWrx1LhUq16YyW-18" value="&lt;b&gt;Galaxy Health and Allied Insurance Company Ltd.&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1610" width="300" height="30" as="geometry" />
+          <mxGeometry x="280" y="1540" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="536" y="1988" width="30" height="22" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="536" y="1970" width="30" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-2" value="Outside Zoho CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1985" width="60" height="26" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-2" value="Outside Zoho CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1967" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1988" width="30" height="22" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1970" width="30" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-4" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="662" y="1984" width="60" height="30" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-4" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="662" y="1966" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="722" y="1988" width="30" height="22" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="722" y="1970" width="30" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="qVm-ARVX63ilR3r2UGEt-7" value="Within Zoho CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="756" y="1984" width="60" height="30" as="geometry" />
+        <mxCell id="qVm-ARVX63ilR3r2UGEt-7" value="Within Zoho CRM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="756" y="1966" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eodbuGr1brfkaizi2-Sv-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="knz6iiXWrx1LhUq16YyW-5" target="knz6iiXWrx1LhUq16YyW-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1790" as="sourcePoint" />
+            <mxPoint x="500" y="1740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eodbuGr1brfkaizi2-Sv-2" value="Payout" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eodbuGr1brfkaizi2-Sv-1">
+          <mxGeometry x="-0.4479" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eodbuGr1brfkaizi2-Sv-3" value="Marketing Automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1612" width="790" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
