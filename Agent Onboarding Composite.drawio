@@ -314,7 +314,7 @@
         </mxCell>
         <mxCell id="HZxX7KIuzeyEv5tbqIYe-1" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
           <mxGeometry x="0.0769" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YgFnqij_w7Lyt54d9Wa-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="NBfsZXymPOGGM7-1zEKC-1" edge="1">
