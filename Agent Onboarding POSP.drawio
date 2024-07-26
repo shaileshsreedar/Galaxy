@@ -371,7 +371,7 @@
             <mxPoint x="1130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5jaLFaHSJ5tQYmdGjiN3-1" value="TCC Received; &amp;nbsp;Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
+        <mxCell id="5jaLFaHSJ5tQYmdGjiN3-1" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
           <mxGeometry x="0.0981" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
