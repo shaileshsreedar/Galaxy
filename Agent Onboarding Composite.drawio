@@ -276,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation in CRM&lt;div&gt;2. Appointment letter generation - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="814" y="750" width="140" height="60" as="geometry" />
+          <mxGeometry x="814" y="770" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID &amp;amp; appointment letter through mail.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="809" y="610" width="150" height="105" as="geometry" />
@@ -310,6 +310,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="150" as="sourcePoint" />
             <mxPoint x="1130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HZxX7KIuzeyEv5tbqIYe-1" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
+          <mxGeometry x="0.0769" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4YgFnqij_w7Lyt54d9Wa-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="NBfsZXymPOGGM7-1zEKC-1" edge="1">
@@ -402,11 +407,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="228" as="sourcePoint" />
             <mxPoint x="1550" y="66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ldtcaKF831ZHqJrmhCyH-27" value="Outbound API&lt;div&gt;to TCS Bancs - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ldtcaKF831ZHqJrmhCyH-26" vertex="1" connectable="0">
-          <mxGeometry x="0.0148" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LyLIEj7PnTEQsNUxyE-x-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="ldtcaKF831ZHqJrmhCyH-20" edge="1">
