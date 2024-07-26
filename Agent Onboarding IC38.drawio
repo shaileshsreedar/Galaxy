@@ -433,7 +433,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation by Zoho&lt;div&gt;2. Appointment letter generation in CRM - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation in CRM&lt;div&gt;2. Appointment letter generation in CRM - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="105" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID &amp;amp; appointment letter through mail.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
