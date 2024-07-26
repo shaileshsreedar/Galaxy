@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-26T15:29:03.885Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="o52Q-uB8XKLG8kiDQorQ" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.5">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="1964" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,12 +27,6 @@
         </mxCell>
         <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-13" value="Composite" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="376" width="70" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-110" target="0TxoYsAdlca8F8hX1XT_-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="894" y="244" as="sourcePoint" />
-            <mxPoint x="939" y="244" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="W-MlJIcmKjAAyfEWoJ3Q-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-9" target="W-MlJIcmKjAAyfEWoJ3Q-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0TxoYsAdlca8F8hX1XT_-1" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="750" y="117.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="919" y="117.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-1" value="Potential agents details updated into CRM manually by Sales Managers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="256.5" width="120" height="75" as="geometry" />
@@ -439,19 +433,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation by Zoho&lt;div&gt;2. Appointment letter generation - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="105" width="140" height="60" as="geometry" />
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation by Zoho&lt;div&gt;2. Appointment letter generation in CRM - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="105" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID through mail.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1142" y="92.5" width="150" height="85" as="geometry" />
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID &amp;amp; appointment letter through mail.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="86.25" width="150" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-110" value="Notification for SM to validate Agent login in Agent portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="849" y="105" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-111" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-107" target="w_etyACIegaJ3iJ-0LxL-5" edge="1">
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-111" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NBfsZXymPOGGM7-1zEKC-107" target="0TxoYsAdlca8F8hX1XT_-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="280" as="sourcePoint" />
-            <mxPoint x="950" y="230" as="targetPoint" />
+            <mxPoint x="1113.75" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-114" value="Notification to SM to process the exam fees and continue the cycle/loop (Re-examination candidate to be identified through PAN and info to be pulled up" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -468,7 +459,7 @@
             <mxPoint x="1010" y="300" as="sourcePoint" />
             <mxPoint x="1060" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="785" y="290" />
+              <mxPoint x="954" y="292" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -500,13 +491,9 @@
             <mxPoint x="1130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_etyACIegaJ3iJ-0LxL-5" value="OTP consent to be received from agent to accept the agency with the Insurance company (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;, &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="993.75" y="100" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="w_etyACIegaJ3iJ-0LxL-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w_etyACIegaJ3iJ-0LxL-5" target="NBfsZXymPOGGM7-1zEKC-110" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="240" as="sourcePoint" />
-            <mxPoint x="1030" y="190" as="targetPoint" />
+        <mxCell id="ROymzOlP03o5OAK5cPHe-2" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
+          <mxGeometry x="-0.0615" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w_etyACIegaJ3iJ-0LxL-7" value="Date of the receipt, Receipt No, GL No to be captured in CRM by SM manually." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -694,11 +681,6 @@
             <mxPoint x="1550" y="66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldtcaKF831ZHqJrmhCyH-27" value="Outbound API&lt;div&gt;to TCS Bancs - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ldtcaKF831ZHqJrmhCyH-26" vertex="1" connectable="0">
-          <mxGeometry x="0.0148" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LyLIEj7PnTEQsNUxyE-x-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="W-MlJIcmKjAAyfEWoJ3Q-3" target="ldtcaKF831ZHqJrmhCyH-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="340" as="sourcePoint" />
@@ -715,18 +697,6 @@
             <mxPoint x="380" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="457" y="188" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LyLIEj7PnTEQsNUxyE-x-3" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;Integration with SMS/ Email gateway, already ready as confirmed by Galaxy&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="854" y="-20" width="150" height="85" as="geometry" />
-        </mxCell>
-        <mxCell id="LyLIEj7PnTEQsNUxyE-x-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LyLIEj7PnTEQsNUxyE-x-3" target="w_etyACIegaJ3iJ-0LxL-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1145" y="90" as="sourcePoint" />
-            <mxPoint x="1053" y="85" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1054" y="23" />
             </Array>
           </mxGeometry>
         </mxCell>
