@@ -322,7 +322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="duw9UY9ywatCfbCkYcC_-123" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Agent&amp;nbsp; Portal , Sales Manager Portal, Corporate Website&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-591.49" y="-107" width="340" height="180" as="geometry" />
+          <mxGeometry x="-564" y="9" width="278.51" height="63" as="geometry" />
         </mxCell>
         <mxCell id="duw9UY9ywatCfbCkYcC_-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.818;entryY=0.23;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;jumpSize=7;" parent="1" source="duw9UY9ywatCfbCkYcC_-123" target="duw9UY9ywatCfbCkYcC_-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -490,14 +490,194 @@
         <mxCell id="aE2zLjSsy1SlFz6WWDhJ-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1145" y="1593" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Customer dials Galaxy health Insurance Business number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Customer dials Galaxy health Insurance Business number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="150" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMElNXdr1ZD5l6xWRX4L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1815" width="62.5" height="30" as="geometry" />
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1815" width="62.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CMElNXdr1ZD5l6xWRX4L-3" value="IVR&lt;div&gt;customer selects preferred service and preferred language&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-3" value="&lt;b&gt;IVR&lt;/b&gt;&lt;div&gt;customer selects preferred service and preferred language&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="310" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-1" value="Inbound call to call centre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="CMElNXdr1ZD5l6xWRX4L-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1930" as="sourcePoint" />
+            <mxPoint x="340" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMElNXdr1ZD5l6xWRX4L-1" target="CMElNXdr1ZD5l6xWRX4L-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1930" as="sourcePoint" />
+            <mxPoint x="340" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMElNXdr1ZD5l6xWRX4L-3" target="G15ThiUx4BXyu7yqYoc5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1930" as="sourcePoint" />
+            <mxPoint x="340" y="1880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="493" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-5" value="Agents call from Galaxy agent care support number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-5" target="G15ThiUx4BXyu7yqYoc5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1910" as="sourcePoint" />
+            <mxPoint x="430" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="G15ThiUx4BXyu7yqYoc5-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1910" as="sourcePoint" />
+            <mxPoint x="430" y="1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="91" y="1920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-8" value="CS executive login to Desk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1890" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-1" target="G15ThiUx4BXyu7yqYoc5-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1940" as="sourcePoint" />
+            <mxPoint x="530" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-10" value="SSO to be ensured for&amp;nbsp;&lt;div&gt;CS executive at the time of login&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="554.5" y="1780" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-10" target="G15ThiUx4BXyu7yqYoc5-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1950" as="sourcePoint" />
+            <mxPoint x="470" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-12" value="1. CS executive is ready to pick up calls&lt;div&gt;2. Inbound calls are triggered to available callers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="1990" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-13" value="CS executive assignment is based on round robin method" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-8" target="G15ThiUx4BXyu7yqYoc5-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2080" as="sourcePoint" />
+            <mxPoint x="690" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-13" target="G15ThiUx4BXyu7yqYoc5-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2080" as="sourcePoint" />
+            <mxPoint x="788" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="2070" as="sourcePoint" />
+            <mxPoint x="510" y="2140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="2100" />
+              <mxPoint x="510" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-17" value="Caller identified as Agent based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-18" value="Caller identified as customer based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="2070" as="sourcePoint" />
+            <mxPoint x="680" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-20" value="Caller identified as non - customer based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="2100" as="sourcePoint" />
+            <mxPoint x="680" y="2020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="2100" />
+              <mxPoint x="770" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-22" value="In case of non customer&lt;div&gt;&lt;b&gt;Scenario 1&lt;/b&gt;: Customer might call from a different number, CS executive shall input the customer number and relevant details (as agreed) shall be shown.&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;&lt;b&gt;Scenario 2&lt;/b&gt;: &amp;nbsp;Non customer wants to enquire about the product - Ticket to be created with limited information and moved to ticket queue (&lt;b&gt;Open point&lt;/b&gt;: Process to be agreed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2230" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-20" target="G15ThiUx4BXyu7yqYoc5-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="2160" as="sourcePoint" />
+            <mxPoint x="620" y="2110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="2160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-24" value="Health Insurance business number to be shared by Galaxy" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1710" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-24" target="CMElNXdr1ZD5l6xWRX4L-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1940" as="sourcePoint" />
+            <mxPoint x="620" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-26" value="Agent care support number to be shared by Galaxy" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1995" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-26" target="G15ThiUx4BXyu7yqYoc5-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1940" as="sourcePoint" />
+            <mxPoint x="620" y="1890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-28" value="Proceed with ticket creation with below fields&lt;div&gt;1. Agent status&lt;/div&gt;&lt;div&gt;2. Issue categorisation&lt;/div&gt;&lt;div&gt;3. Issue Description&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2210" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-17" target="G15ThiUx4BXyu7yqYoc5-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="2170" as="sourcePoint" />
+            <mxPoint x="230" y="2120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363" y="2160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-18" target="G15ThiUx4BXyu7yqYoc5-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="2430" as="sourcePoint" />
+            <mxPoint x="640" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as in Default desk platform (mandatory fields to be agreed)&lt;/div&gt;&lt;div&gt;2. Policy details (as agreed)&lt;/div&gt;&lt;div&gt;3. Select Category, sub category (as agreed)&lt;/div&gt;&lt;div&gt;4. Text box for customer query to be provided&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523.63" y="2220" width="232.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-32" value="Based on queries raised through email, corporate website and agent portal , ticket to be created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="2340" as="sourcePoint" />
+            <mxPoint x="880" y="2290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="2100" />
+              <mxPoint x="1020" y="2100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="2370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
