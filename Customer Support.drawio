@@ -174,8 +174,8 @@
             <mxPoint x="640" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as available in CRM /Desk master shall be populated -&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;2. Select Category, sub category (as agreed)&lt;/div&gt;&lt;div&gt;3. Issue description box for customer query to be provided&lt;/div&gt;&lt;div&gt;4. Policy status (Active/non active)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516.63" y="2211" width="246.37" height="110" as="geometry" />
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as available in CRM /Desk master shall be populated -&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;2. Select Category, sub category (as agreed)&lt;/div&gt;&lt;div&gt;3. Issue description box for customer query to be provided&lt;/div&gt;&lt;div&gt;4. Policy status (Active/Not active)&lt;/div&gt;&lt;div&gt;5. Fields as agreed (Policy, claims, Underwriting)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507.81" y="2210" width="263.37" height="119" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-32" value="Based on queries raised through email, corporate website (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;) and agent portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;) , ticket to be created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="2125" width="140" height="70" as="geometry" />
@@ -246,8 +246,8 @@
             <mxPoint x="810" y="2380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-44" value="1. Scenario 1: Details available in CRM / Desk - Assigned executive handles the ticket without integration.&lt;div&gt;Scenario 2: Details to be sent to TCS BaNCS for review of the ticket (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;)&lt;div&gt;2. Ticket status changed to In-progress)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="656.5" y="2610" width="171" height="130" as="geometry" />
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-44" value="1. &lt;b&gt;Scenario 1&lt;/b&gt;: Details available in CRM / Desk - Assigned executive handles the ticket without integration.&lt;div&gt;&lt;b&gt;Scenario 2&lt;/b&gt;: Resolution specific to TCS BaNCS: Details to be sent to TCS BaNCS for review of the ticket (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;)&lt;div&gt;2. Ticket status changed to In-progress)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638.25" y="2610" width="207.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-42" target="G15ThiUx4BXyu7yqYoc5-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-48" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(to be defined and agreed) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="355" y="2228" width="141" height="102" as="geometry" />
+          <mxGeometry x="349" y="2233" width="141" height="102" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-50" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(to be defined and agreed) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1110" y="2255" width="148.6" height="100" as="geometry" />
@@ -288,7 +288,7 @@
             <mxPoint x="1150" y="2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-55" value="1. TCS BaNCS shall respond back to the queries (Integration design to be discussed and agreed, Tickert status to be updated in Desk from TCS BaNCS)&lt;div&gt;2. Relevant Document (if any ) to be sent to the customer. -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;&lt;br&gt;&lt;div&gt;3. Ticket status changed to Resolved&lt;/div&gt;&lt;div&gt;4. Resolution code - Zoho shall define&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-55" value="1. TCS BaNCS shall respond back to the queries (Integration design to be discussed and agreed, Ticket status to be updated in Desk from TCS BaNCS)&lt;div&gt;2. Relevant Document (if any ) to be sent to the customer. -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;&lt;br&gt;&lt;div&gt;3. Ticket status changed to Resolved&lt;/div&gt;&lt;div&gt;4. Resolution code - Zoho shall define&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="607" y="2763.75" width="270" height="121.25" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-44" target="G15ThiUx4BXyu7yqYoc5-55">
@@ -316,7 +316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-61" value="Customer reopens the ticket through mail or call" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="2645" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="2645" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-38" target="G15ThiUx4BXyu7yqYoc5-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -454,13 +454,13 @@
             <mxPoint x="160" y="2760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-28">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="2380" as="sourcePoint" />
-            <mxPoint x="640" y="2340" as="targetPoint" />
+            <mxPoint x="435" y="2424" as="sourcePoint" />
+            <mxPoint x="640" y="2344" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="2420" />
-              <mxPoint x="470" y="2340" />
+              <mxPoint x="470" y="2424" />
+              <mxPoint x="470" y="2344" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -478,7 +478,7 @@
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-95" value="Ticket&lt;div&gt;assigned to&amp;nbsp;&lt;/div&gt;&lt;div&gt;same CS&lt;/div&gt;&lt;div&gt;executive&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G15ThiUx4BXyu7yqYoc5-94">
           <mxGeometry x="-0.0864" relative="1" as="geometry">
-            <mxPoint y="7" as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G15ThiUx4BXyu7yqYoc5-44" target="G15ThiUx4BXyu7yqYoc5-65">
@@ -495,6 +495,24 @@
           <mxGeometry x="0.0923" y="-1" relative="1" as="geometry">
             <mxPoint y="41" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="414" y="3100" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-99" value="Outside Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="463.5" y="3100" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="595" y="3100" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-101" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="3100" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="3100" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-103" value="Within Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="808.5" y="3100" width="96.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
