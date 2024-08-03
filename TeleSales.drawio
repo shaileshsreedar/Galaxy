@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T17:52:19.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="MmD1G7hXP_9RXDaNlLxe" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.6">
   <diagram name="Page-1" id="DGPTn8h5blwmbo-AMauQ">
-    <mxGraphModel dx="1781" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1789" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="0je7gwXj_GNrerZqdTDB-8" value="Data wash happens in dialler, where all the DNC customer contacts are filtered out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380.75" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="If any response received from the customer, a separate campaign for hot calling of leads sourced through IVR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="If any response received from the customer, a separate campaign for hot calling of leads sourced through IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="235" width="148.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-3" target="0je7gwXj_GNrerZqdTDB-8" edge="1">
@@ -548,13 +548,13 @@
             <mxPoint x="1290" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--1" value="Call disconnected" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--1" value="Call disconnected" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1590" y="815" width="82.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--2" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--2" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1660" y="695" width="170" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ykxIiuh2xINK5TGoTC--2" target="_ykxIiuh2xINK5TGoTC--1">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.541;exitY=0.811;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_ykxIiuh2xINK5TGoTC--2" target="_ykxIiuh2xINK5TGoTC--1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="820" as="sourcePoint" />
             <mxPoint x="1440" y="770" as="targetPoint" />
@@ -563,13 +563,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ykxIiuh2xINK5TGoTC--1" target="0je7gwXj_GNrerZqdTDB-55">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_ykxIiuh2xINK5TGoTC--1" target="0je7gwXj_GNrerZqdTDB-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="970" as="sourcePoint" />
             <mxPoint x="1440" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0je7gwXj_GNrerZqdTDB-56" target="0je7gwXj_GNrerZqdTDB-60">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-56" target="0je7gwXj_GNrerZqdTDB-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="970" as="sourcePoint" />
             <mxPoint x="1440" y="920" as="targetPoint" />
