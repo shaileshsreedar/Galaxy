@@ -48,10 +48,10 @@
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-10" value="Interested" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1342.5" y="360" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Redirected to Agent Portal &amp;amp; Journey ends" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Redirected to Agent Portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt; - CR) &amp;amp; Journey ends" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="480" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1202" y="680.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-15" value="Records saved in Zoho CRM as customers in a separate module for customer handling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="0je7gwXj_GNrerZqdTDB-8" value="Data wash happens in dialler, where all the DNC customer contacts are filtered out" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380.75" y="240" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="If any response received from the customer, a separate campaign for hot calling of leads sourced through IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-10" value="If any response received from the customer, a separate campaign for hot calling of leads sourced through IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="235" width="148.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-3" target="0je7gwXj_GNrerZqdTDB-8" edge="1">
@@ -139,8 +139,8 @@
             <mxPoint x="652" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="1. Customers to be reconnected based on defined frequency - Agreed as 1 week by Business (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D9&lt;/span&gt;)&lt;div&gt;2. If no response is got after specified attempts (3), trigger a WhatsApp or SMS message to get the interest of the customer (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D10&lt;/span&gt;)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="476" y="420" width="132" height="170" as="geometry" />
+        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="1. Customers to be reconnected based on defined frequency - Agreed as 1 week by Business (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D9&lt;/span&gt;)&lt;div&gt;2. If no response is got after specified attempts (3), trigger a WhatsApp or SMS message to get the interest of the customer (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D10&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. If no response is captured, lead status is updated as closed/ Not reachable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="453" y="417.5" width="178" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-10" target="0je7gwXj_GNrerZqdTDB-77" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -189,7 +189,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-26" value="&lt;u&gt;&lt;b&gt;Dialer validation:&lt;/b&gt;&lt;/u&gt;&lt;div&gt;1. Telecaller receives the call from the leads which is tagged only to their respective campaign&lt;/div&gt;&lt;div&gt;2. Dialler associates the calls to the callers available to take calls (round robin)&lt;/div&gt;&lt;div&gt;3. Provision to be provided for the caller to take notes.&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1105" y="325" width="230" height="175" as="geometry" />
+          <mxGeometry x="1105" y="325" width="230" height="155" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-26" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -245,7 +245,7 @@
             <mxPoint x="1460" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-40" value="60-120 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-40" value="120 seconds wrap-up time to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1590" y="222.5" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-40" target="8dm4q_V4aPKoPHy_YZsy-9" edge="1">
@@ -254,7 +254,7 @@
             <mxPoint x="1350" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-42" value="60 - 120 seconds timeout to be provided to the caller to update the disposition and take notes - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D18&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-42" value="120 seconds wrap-up time to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="970" y="-17.5" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-42" target="0je7gwXj_GNrerZqdTDB-28" edge="1">
@@ -363,19 +363,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-83" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dialler functionalities to be checked and Integrated&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="625" y="370" width="150" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-84" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-83" target="0je7gwXj_GNrerZqdTDB-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="330" as="sourcePoint" />
-            <mxPoint x="840" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="700" y="340" />
-              <mxPoint x="614" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-15" target="0je7gwXj_GNrerZqdTDB-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="390" as="sourcePoint" />
@@ -386,7 +373,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-86" value="Customer responds in WhatsApp or SMS -&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt; I4&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0je7gwXj_GNrerZqdTDB-85" vertex="1" connectable="0">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-86" value="Customer responds in WhatsApp or SMS -&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt; I3&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0je7gwXj_GNrerZqdTDB-85" vertex="1" connectable="0">
           <mxGeometry x="-0.2768" y="-3" relative="1" as="geometry">
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
@@ -427,7 +414,7 @@
         <mxCell id="_ykxIiuh2xINK5TGoTC--1" value="Call disconnected" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1328.75" y="587.5" width="82.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--2" value="45 - 60 seconds timeout to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="_ykxIiuh2xINK5TGoTC--2" value="120 seconds wrap-up time to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1470" y="560" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="n3ydW-vag76BkSpOjta8-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_ykxIiuh2xINK5TGoTC--2" target="_ykxIiuh2xINK5TGoTC--1">
