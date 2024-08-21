@@ -51,7 +51,7 @@
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Redirected to Agent Portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt; - CR) &amp;amp; Journey ends" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="480" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D25&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1202" y="680.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-15" value="Records saved in Zoho CRM as customers in a separate module for customer handling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -139,7 +139,7 @@
             <mxPoint x="652" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="1. Customers to be reconnected based on defined frequency - Agreed as 1 week by Business (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D9&lt;/span&gt;)&lt;div&gt;2. If no response is got after specified attempts (3), trigger a WhatsApp or SMS message to get the interest of the customer (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D10&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. If no response is captured, lead status is updated as closed/ Not reachable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-15" value="1. Customers to be reconnected based on defined frequency - Agreed as 1 week by Business.&lt;div&gt;2. If no response is got after specified attempts (Agreed as 3) , trigger a WhatsApp or SMS message to get the interest of the customer (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D3&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;3. If no response is captured, lead status is updated as closed/ Not reachable&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="453" y="417.5" width="178" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-10" target="0je7gwXj_GNrerZqdTDB-77" edge="1">
@@ -148,7 +148,7 @@
             <mxPoint x="860" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-17" value="1. Telesales and web sales each to have a separate channel ID to compare the campaigns. (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;)&lt;div&gt;2. Separate channel ID to be created to track customers redirected from customer support team for sales call (&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;D3&lt;/span&gt;)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-17" value="1. Telesales and web sales each to have a separate channel ID to compare the campaigns. (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;)&lt;div&gt;2. Separate channel ID to be created to track customers redirected from customer support team for sales call (&lt;span style=&quot;background-color: rgb(255, 51, 255);&quot;&gt;D2&lt;/span&gt;)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="243" y="360" width="188" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-17" target="8dm4q_V4aPKoPHy_YZsy-3" edge="1">
@@ -161,7 +161,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-19" value="Dialler auto assigns the hot leads based on the assignment logic (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-19" value="Dialler auto assigns the hot leads based on round robin method" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-19" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
@@ -179,7 +179,7 @@
             <mxPoint x="302" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-24" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Every lead to be mapped to a unique campaign&lt;/div&gt;&lt;div&gt;2. T&lt;span style=&quot;white-space: pre;&quot;&gt;elecallers to be&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; mapped to each&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;campaign created - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;3. Leads referred by another&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; lead&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;shall be mapped to IVR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; Leads &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;campaign.&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-24" value="&lt;b&gt;&lt;u&gt;CRM Validation:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Every lead to be mapped to a unique campaign&lt;/div&gt;&lt;div&gt;2. T&lt;span style=&quot;white-space: pre;&quot;&gt;elecallers to be&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; mapped to each&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;campaign created.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;3. Leads referred by another&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; lead&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;shall be mapped to IVR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; Leads &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;campaign.&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="58.870000000000005" y="330" width="166.25" height="190" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-24" target="0je7gwXj_GNrerZqdTDB-22" edge="1">
@@ -218,13 +218,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-33" value="Remove the customer from the calling base until it is re uploaded manually by the user - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D19&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-33" value="Remove the customer from the calling base until it is re uploaded manually by the user" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1442.5" y="140" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-34" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1482.5" y="80" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="&lt;span style=&quot;font-family: inherit; background-color: rgb(224, 237, 212); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left; background-color: rgb(255, 64, 255);&quot;&gt;D20&lt;/span&gt;&lt;span style=&quot;font-family: inherit; background-color: rgb(224, 237, 212); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-35" value="&lt;span style=&quot;font-family: inherit; background-color: rgb(224, 237, 212); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;Call the customer with different agent for 2nd time (&lt;/span&gt;&lt;span style=&quot;font-family: inherit; caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left; background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;&lt;span style=&quot;font-family: inherit; background-color: rgb(224, 237, 212); caret-color: rgb(34, 34, 34); color: rgb(34, 34, 34); letter-spacing: 0.01px; text-align: left;&quot;&gt;)&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1620" y="130" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-35" target="0je7gwXj_GNrerZqdTDB-33" edge="1">
@@ -293,7 +293,7 @@
             <mxPoint x="1053" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-68" value="Product brochures and scripts &amp;nbsp;to be saved in Product module (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D22&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-68" value="Product brochures and scripts &amp;nbsp;to be saved in Product module (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="135" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-69" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-68" target="8dm4q_V4aPKoPHy_YZsy-6" edge="1">
@@ -305,7 +305,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target (Premium collected) (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D13&lt;/span&gt;)&lt;div&gt;2. Option to disable the target shall be provided to the Zonal manager (Not to the caller)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. Telecaller shall have access and visibility of leads mapped to their respective campaign - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D14&lt;/span&gt;&lt;/div&gt;&lt;div&gt;4. Provision to track individual target vs achieved - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D15&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-72" value="&lt;b&gt;&lt;u&gt;Validations:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;1. Caller to have an option to enter daily target (Premium collected)&lt;/div&gt;&lt;div&gt;2. Option to disable the target shall be provided to the Zonal manager (Not to the caller)&lt;/div&gt;&lt;div&gt;3. Telecaller shall have access and visibility of leads mapped to their respective campaign&lt;/div&gt;&lt;div&gt;4. Provision to track individual target vs achieved.&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="785" y="330" width="270" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8dm4q_V4aPKoPHy_YZsy-7" target="0je7gwXj_GNrerZqdTDB-28" edge="1">
@@ -338,7 +338,7 @@
             <mxPoint x="580" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0je7gwXj_GNrerZqdTDB-79" value="Branch manager/ Team leader login (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D11&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0je7gwXj_GNrerZqdTDB-79" value="Zonal Manager login" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0je7gwXj_GNrerZqdTDB-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0je7gwXj_GNrerZqdTDB-77" target="0je7gwXj_GNrerZqdTDB-79" edge="1">
