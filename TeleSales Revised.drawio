@@ -48,10 +48,10 @@
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-10" value="Interested" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1342.5" y="360" width="55" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Redirected to Agent Portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt; - CR) &amp;amp; Journey ends" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-11" value="Redirected to Agent Portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;&amp;nbsp;)" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1307.5" y="480" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6&lt;/span&gt;)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="8dm4q_V4aPKoPHy_YZsy-14" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&amp;nbsp;&lt;/span&gt;- Policy details sent to CRM (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6&lt;/span&gt;) from TCS BaNCS" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1202" y="680.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8dm4q_V4aPKoPHy_YZsy-15" value="Records saved in Zoho CRM as customers in a separate module for customer handling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -411,8 +411,8 @@
         <mxCell id="cM6T3bPlFvKYOD0LM07C-13" value="Dependencies" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1431" y="780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ykxIiuh2xINK5TGoTC--1" value="Call disconnected" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1328.75" y="587.5" width="82.5" height="40" as="geometry" />
+        <mxCell id="_ykxIiuh2xINK5TGoTC--1" value="Call disconnected (End of Journey)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="587.5" width="121.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ykxIiuh2xINK5TGoTC--2" value="120 seconds wrap-up time to be provided to the caller to update the disposition and take notes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1470" y="560" width="170" height="95" as="geometry" />
