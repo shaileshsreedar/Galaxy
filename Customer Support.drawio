@@ -501,6 +501,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-10" value="Hospital support&lt;div&gt;Hospital enquires with Galaxy through mail or dedicated hospital care number&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="334.25" y="2617.37" width="163.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-11" value="Galaxy&#39;s hospital care executive shall connect offline with hospital to gather the queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="334.75" y="2712.37" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-12" value="Based on input, ticket is created in Zoho Desk with fields as agreed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="2809.74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-13" value="Galaxy executive shall check on the query and respond back through mail and close the ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="2907.37" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.455;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LatDOPX2VR_3BTuD7BCr-10" target="LatDOPX2VR_3BTuD7BCr-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.25" y="2937.37" as="sourcePoint" />
+            <mxPoint x="714.25" y="2887.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LatDOPX2VR_3BTuD7BCr-11" target="LatDOPX2VR_3BTuD7BCr-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.25" y="2937.37" as="sourcePoint" />
+            <mxPoint x="714.25" y="2887.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LatDOPX2VR_3BTuD7BCr-12" target="LatDOPX2VR_3BTuD7BCr-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="664.25" y="2937.37" as="sourcePoint" />
+            <mxPoint x="714.25" y="2887.37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LatDOPX2VR_3BTuD7BCr-13" target="G15ThiUx4BXyu7yqYoc5-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="3090" as="sourcePoint" />
+            <mxPoint x="660" y="3040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409" y="3010" />
+              <mxPoint x="1043" y="3010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
