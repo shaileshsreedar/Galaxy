@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.10">
   <diagram name="Page-1" id="J0Dl2C9NBDgtXITPT6Fh">
-    <mxGraphModel dx="2123" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2291" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,8 +433,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation in CRM&lt;div&gt;2. Appointment letter generation in CRM - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="105" width="160" height="60" as="geometry" />
+        <mxCell id="NBfsZXymPOGGM7-1zEKC-102" value="1. Agent ID creation in CRM&lt;div&gt;2. Appointment letter generation in CRM - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;(D14)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;3. Appointment acceptance consent&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="97.5" width="160" height="75" as="geometry" />
         </mxCell>
         <mxCell id="NBfsZXymPOGGM7-1zEKC-107" value="1. Confirmation sent to SM&#39;s on successful onboarding&lt;div&gt;2. Confirmation sent to Agent along with agent ID &amp;amp; appointment letter through mail.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="86.25" width="150" height="97.5" as="geometry" />
@@ -491,7 +491,7 @@
             <mxPoint x="1130" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROymzOlP03o5OAK5cPHe-2" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_etyACIegaJ3iJ-0LxL-4">
+        <mxCell id="ROymzOlP03o5OAK5cPHe-2" value="Outbound API&lt;div&gt;to TCS Bancs -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w_etyACIegaJ3iJ-0LxL-4" vertex="1" connectable="0">
           <mxGeometry x="-0.0615" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
