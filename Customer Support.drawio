@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.15">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
-    <mxGraphModel dx="954" dy="-655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="-670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -444,22 +444,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="414" y="3100" width="36" height="30" as="geometry" />
+          <mxGeometry x="414" y="3134" width="36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-99" value="Outside Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="463.5" y="3100" width="96.5" height="30" as="geometry" />
+          <mxGeometry x="463.5" y="3134" width="96.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="595" y="3100" width="36" height="30" as="geometry" />
+          <mxGeometry x="595" y="3134" width="36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-101" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="644.5" y="3100" width="96.5" height="30" as="geometry" />
+          <mxGeometry x="644.5" y="3134" width="96.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="759" y="3100" width="36" height="30" as="geometry" />
+          <mxGeometry x="759" y="3134" width="36" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-103" value="Within Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="808.5" y="3100" width="96.5" height="30" as="geometry" />
+          <mxGeometry x="808.5" y="3134" width="96.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -538,6 +538,66 @@
             <Array as="points">
               <mxPoint x="409" y="3010" />
               <mxPoint x="1043" y="3010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-2" value="Cashless claim support&lt;div&gt;Details captured and sent through dedicated mail ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2617.37" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-3" value="Ticket created in Desk based on received details (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2712.37" width="140" height="57.63" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-2" target="9aKA09WB6CI9SyymXwDa-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="2810" as="sourcePoint" />
+            <mxPoint x="460" y="2760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-5" value="Tickets assigned based on round robin method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2803.56" width="140" height="47.63" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-3" target="9aKA09WB6CI9SyymXwDa-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2640" as="sourcePoint" />
+            <mxPoint x="440" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-7" value="Tickets to check for tagging with existing CIN based on mail subject (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="2885" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-5" target="9aKA09WB6CI9SyymXwDa-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2830" as="sourcePoint" />
+            <mxPoint x="440" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-9" value="Tickets pushed to TCS through API (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-7" target="9aKA09WB6CI9SyymXwDa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2830" as="sourcePoint" />
+            <mxPoint x="440" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-11" value="Ticket closed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="3060" width="76.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-9" target="9aKA09WB6CI9SyymXwDa-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="2930" as="sourcePoint" />
+            <mxPoint x="510" y="2880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="3080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9aKA09WB6CI9SyymXwDa-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-11" target="G15ThiUx4BXyu7yqYoc5-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="3000" as="sourcePoint" />
+            <mxPoint x="540" y="2950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1043" y="3080" />
             </Array>
           </mxGeometry>
         </mxCell>
