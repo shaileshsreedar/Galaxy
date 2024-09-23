@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.15">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
-    <mxGraphModel dx="1477" dy="-670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1706" dy="-422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
         <mxCell id="9aKA09WB6CI9SyymXwDa-2" value="Cashless claim support&lt;div&gt;Details captured and sent through dedicated mail ID&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="2617.37" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9aKA09WB6CI9SyymXwDa-3" value="Ticket created in Desk based on received details (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aKA09WB6CI9SyymXwDa-3" value="Ticket created in Desk based on received details &amp;nbsp;manually." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="2712.37" width="140" height="57.63" as="geometry" />
         </mxCell>
         <mxCell id="9aKA09WB6CI9SyymXwDa-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-2" target="9aKA09WB6CI9SyymXwDa-3">
@@ -562,7 +562,7 @@
             <mxPoint x="440" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9aKA09WB6CI9SyymXwDa-7" value="Tickets to check for tagging with existing CIN based on mail subject (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9aKA09WB6CI9SyymXwDa-7" value="Tickets to check for tagging with existing CIN based on mail subject (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="2885" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aKA09WB6CI9SyymXwDa-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9aKA09WB6CI9SyymXwDa-5" target="9aKA09WB6CI9SyymXwDa-7">
