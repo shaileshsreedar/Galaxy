@@ -4,29 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Customer dials Galaxy health Insurance Business number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1800" width="120" height="60" as="geometry" />
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1490" width="620" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Ticket raised through phone (D1) and toll free customer care (D1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMElNXdr1ZD5l6xWRX4L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="60" y="1815" width="62.5" height="30" as="geometry" />
+          <mxGeometry x="60" y="1580" width="62.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMElNXdr1ZD5l6xWRX4L-3" value="&lt;b&gt;IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;)&lt;/b&gt;&lt;div&gt;customer selects preferred service and preferred language&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="310" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-1" value="Inbound call to call centre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="433.5" y="1890" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="CMElNXdr1ZD5l6xWRX4L-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1930" as="sourcePoint" />
-            <mxPoint x="340" y="1880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-1" target="CMElNXdr1ZD5l6xWRX4L-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1930" as="sourcePoint" />
-            <mxPoint x="340" y="1880" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-3" target="G15ThiUx4BXyu7yqYoc5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,15 +128,6 @@
             <Array as="points">
               <mxPoint x="1170" y="2175" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-24" value="Health Insurance business number to be shared by Galaxy (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="145" y="1710" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-24" target="CMElNXdr1ZD5l6xWRX4L-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="1940" as="sourcePoint" />
-            <mxPoint x="620" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-26" value="Agent care support number to be shared by Galaxy (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D2&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -600,6 +582,27 @@
               <mxPoint x="1043" y="3080" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-1" value="Tickets raised through Grievance mail ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="633.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-3" value="Ticket raised through letter/courier and In-person walk-in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-4" value="Ticket raised by Operating offices" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-5" value="Tickets raised through IGMS portal of IRDAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-6" value="Tickets raised through National consumer helpline or INGRAM Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-7" value="Tickets raised through public grievance or CPGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="631" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
