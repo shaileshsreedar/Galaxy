@@ -605,7 +605,7 @@
           <mxGeometry x="831" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-9" value="Channels for raising Grievance tickets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="79.5" y="1487" width="312.5" height="30" as="geometry" />
+          <mxGeometry x="70.5" y="1490" width="312.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="jaS_6ejKE6jILCxBxe4m-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
