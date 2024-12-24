@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jaS_6ejKE6jILCxBxe4m-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1490" width="620" height="220" as="geometry" />
+          <mxGeometry x="150" y="1460" width="620" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Ticket raised through phone (D1) and toll free customer care (D1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="170" y="1610" width="120" height="60" as="geometry" />
@@ -603,6 +603,9 @@
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-7" value="Tickets raised through public grievance or CPGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="631" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-9" value="Channels for raising Grievance tickets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="163.5" y="1470" width="312.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
