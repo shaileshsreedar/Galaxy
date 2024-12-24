@@ -14,27 +14,27 @@
           <mxGeometry x="-70" y="1555" width="102.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMElNXdr1ZD5l6xWRX4L-3" value="&lt;b&gt;IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;)&lt;/b&gt;&lt;div&gt;customer selects preferred service and preferred language&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="313.5" y="1829" width="120" height="60" as="geometry" />
+          <mxGeometry x="313.5" y="1861" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-1" value="Inbound call to call centre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="433.5" y="1899" width="120" height="60" as="geometry" />
+          <mxGeometry x="433.5" y="1931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-3" target="G15ThiUx4BXyu7yqYoc5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="1939" as="sourcePoint" />
-            <mxPoint x="340" y="1889" as="targetPoint" />
+            <mxPoint x="290" y="1971" as="sourcePoint" />
+            <mxPoint x="340" y="1921" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="494" y="1859" />
+              <mxPoint x="494" y="1891" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-5" value="Agents call from Galaxy agent care support number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="260" y="1899" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1931" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-5" target="G15ThiUx4BXyu7yqYoc5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="1919" as="sourcePoint" />
-            <mxPoint x="430" y="1869" as="targetPoint" />
+            <mxPoint x="380" y="1951" as="sourcePoint" />
+            <mxPoint x="430" y="1901" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="G15ThiUx4BXyu7yqYoc5-5" edge="1">
@@ -42,44 +42,44 @@
             <mxPoint x="380" y="1910" as="sourcePoint" />
             <mxPoint x="430" y="1860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="91" y="1920" />
+              <mxPoint x="-19" y="1961" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-8" value="CS executive login to Desk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="1899" width="90" height="60" as="geometry" />
+          <mxGeometry x="595" y="1931" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-1" target="G15ThiUx4BXyu7yqYoc5-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1949" as="sourcePoint" />
-            <mxPoint x="530" y="1899" as="targetPoint" />
+            <mxPoint x="480" y="1981" as="sourcePoint" />
+            <mxPoint x="530" y="1931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-10" value="SSO to be ensured for&amp;nbsp;&lt;div&gt;CS executive at the time of login&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="554.5" y="1819" width="170" height="70" as="geometry" />
+          <mxGeometry x="554.5" y="1851" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-10" target="G15ThiUx4BXyu7yqYoc5-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="1959" as="sourcePoint" />
-            <mxPoint x="470" y="1909" as="targetPoint" />
+            <mxPoint x="420" y="1991" as="sourcePoint" />
+            <mxPoint x="470" y="1941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-12" value="1. CS executive is ready to pick up calls&lt;div&gt;2. Inbound calls are triggered to available callers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="545" y="1990" width="190" height="70" as="geometry" />
+          <mxGeometry x="545" y="2022" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-13" value="CS executive assignment is based on round robin method" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="775" y="1990" width="130" height="70" as="geometry" />
+          <mxGeometry x="775" y="2022" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-8" target="G15ThiUx4BXyu7yqYoc5-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="2080" as="sourcePoint" />
-            <mxPoint x="690" y="2030" as="targetPoint" />
+            <mxPoint x="640" y="2112" as="sourcePoint" />
+            <mxPoint x="690" y="2062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-13" target="G15ThiUx4BXyu7yqYoc5-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="2080" as="sourcePoint" />
-            <mxPoint x="788" y="2090" as="targetPoint" />
+            <mxPoint x="640" y="2112" as="sourcePoint" />
+            <mxPoint x="788" y="2122" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-17" edge="1">
@@ -131,12 +131,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-26" value="Agent care support number to be shared by Galaxy (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D2&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="255" y="1995" width="130" height="60" as="geometry" />
+          <mxGeometry x="255" y="2027" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-26" target="G15ThiUx4BXyu7yqYoc5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="1940" as="sourcePoint" />
-            <mxPoint x="620" y="1890" as="targetPoint" />
+            <mxPoint x="570" y="1972" as="sourcePoint" />
+            <mxPoint x="620" y="1922" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-28" value="Proceed with ticket creation with below fields&lt;div&gt;1. Agent status&lt;/div&gt;&lt;div&gt;2. Issue categorisation&lt;/div&gt;&lt;div&gt;3. Issue Description&lt;/div&gt;&lt;div&gt;4. Default Desk OOTB fields&lt;/div&gt;&lt;div&gt;Ticket shall be created specific to the agent or for a customer&#39;s behalf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -657,10 +657,11 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-21" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="579.5" y="1748" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-22" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Integration to this portal&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-6" target="jaS_6ejKE6jILCxBxe4m-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-22" value="Integration to this portal&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-6" target="jaS_6ejKE6jILCxBxe4m-21">
+          <mxGeometry x="-0.011" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1790" as="sourcePoint" />
             <mxPoint x="520" y="1740" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-23" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -681,7 +682,7 @@
             <mxPoint x="520" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-27" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Integration to this portal&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-26">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-27" value="Integration to this portal&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-26">
           <mxGeometry x="-0.0435" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -695,7 +696,7 @@
             <mxPoint x="520" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-30" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Integration with customer&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;&amp;nbsp;Portal is not&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;discussed and &quot;Open&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-29">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-30" value="Integration with customer&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Portal is not&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;discussed and &quot;Open&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-29">
           <mxGeometry x="0.5651" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
