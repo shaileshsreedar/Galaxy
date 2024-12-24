@@ -702,7 +702,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-31" value="Ticket status is set to &quot;Open&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1850" width="1000" height="40" as="geometry" />
+          <mxGeometry x="480" y="1860" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
