@@ -13,255 +13,55 @@
         <mxCell id="CMElNXdr1ZD5l6xWRX4L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1555" width="102.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMElNXdr1ZD5l6xWRX4L-3" value="&lt;b&gt;IVR (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;)&lt;/b&gt;&lt;div&gt;customer selects preferred service and preferred language&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="313.5" y="1971" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-1" value="Inbound call to call centre" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="433.5" y="2041" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-3" target="G15ThiUx4BXyu7yqYoc5-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="2081" as="sourcePoint" />
-            <mxPoint x="340" y="2031" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="494" y="2001" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-5" value="Agents call from Galaxy agent care support number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="260" y="2041" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-5" target="G15ThiUx4BXyu7yqYoc5-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="2061" as="sourcePoint" />
-            <mxPoint x="430" y="2011" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="G15ThiUx4BXyu7yqYoc5-5" edge="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="1910" as="sourcePoint" />
-            <mxPoint x="430" y="1860" as="targetPoint" />
+            <mxPoint x="260" y="2071" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-19" y="2026" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-8" value="CS executive login to Desk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="2041" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-1" target="G15ThiUx4BXyu7yqYoc5-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="2091" as="sourcePoint" />
-            <mxPoint x="530" y="2041" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-10" value="SSO to be ensured for&amp;nbsp;&lt;div&gt;CS executive at the time of login&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="554.5" y="1961" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-10" target="G15ThiUx4BXyu7yqYoc5-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="2101" as="sourcePoint" />
-            <mxPoint x="470" y="2051" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-12" value="1. CS executive is ready to pick up calls&lt;div&gt;2. Inbound calls are triggered to available callers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="545" y="2132" width="190" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-13" value="CS executive assignment is based on round robin method" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="775" y="2132" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-8" target="G15ThiUx4BXyu7yqYoc5-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="2222" as="sourcePoint" />
-            <mxPoint x="690" y="2172" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-13" target="G15ThiUx4BXyu7yqYoc5-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="2222" as="sourcePoint" />
-            <mxPoint x="788" y="2232" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2180" as="sourcePoint" />
-            <mxPoint x="510" y="2250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="2210" />
-              <mxPoint x="510" y="2210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-17" value="Caller identified as Agent based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="2240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-18" value="Caller identified as customer based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="2240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="2180" as="sourcePoint" />
-            <mxPoint x="680" y="2130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-20" value="Caller identified as non - customer based on mobile number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="2210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-12" target="G15ThiUx4BXyu7yqYoc5-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="2165" as="sourcePoint" />
-            <mxPoint x="680" y="2085" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="2165" />
-              <mxPoint x="770" y="2165" />
-              <mxPoint x="1060" y="2165" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-22" value="In case of non customer&lt;div&gt;&lt;b&gt;Scenario 1&lt;/b&gt;: Customer might call from a different number, CS executive shall input the customer number or email or policy ID or Customer ID or claim number &amp;nbsp;so that info relevant to the input is shown &amp;amp; ticket shall be created for that user.&lt;/div&gt;&lt;div&gt;&lt;b&gt;Scenario 2&lt;/b&gt;: &amp;nbsp;Non customer wants to enquire about the product - Ticket to be created with limited information and moved to ticket queue (&lt;b&gt;Open point&lt;/b&gt;: Process to be agreed - &lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)&lt;/div&gt;&lt;div&gt;Scenario 3: Customer wants to purchase a policy and calls customer support. For this case, lead name, number &amp;amp; mail is captured and pushed as lead to CRM.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="2210" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-20" target="G15ThiUx4BXyu7yqYoc5-22" edge="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="G15ThiUx4BXyu7yqYoc5-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="2160" as="sourcePoint" />
+            <mxPoint x="1120" y="2240" as="sourcePoint" />
             <mxPoint x="620" y="2110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1170" y="2175" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-26" value="Agent care support number to be shared by Galaxy (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D2&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="255" y="2137" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-26" target="G15ThiUx4BXyu7yqYoc5-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="2082" as="sourcePoint" />
-            <mxPoint x="620" y="2032" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-28" value="Proceed with ticket creation with below fields&lt;div&gt;1. Agent status&lt;/div&gt;&lt;div&gt;2. Issue categorisation&lt;/div&gt;&lt;div&gt;3. Issue Description&lt;/div&gt;&lt;div&gt;4. Default Desk OOTB fields&lt;/div&gt;&lt;div&gt;Ticket shall be created specific to the agent or for a customer&#39;s behalf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="227.5" y="2387" width="185" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-17" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="2215" as="sourcePoint" />
-            <mxPoint x="320" y="2432" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="2205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-18" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="2540" as="sourcePoint" />
-            <mxPoint x="639.4949999999999" y="2320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as available in CRM /Desk master shall be populated -(&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D3 &lt;/span&gt;)&lt;/div&gt;&lt;div&gt;2. Select Category, sub category (as agreed)&lt;/div&gt;&lt;div&gt;3. Issue description box for customer query to be provided&lt;/div&gt;&lt;div&gt;4. Policy status (Active/Not active) - If passed as a field to CRM/Desk&lt;/div&gt;&lt;div&gt;5. Fields as agreed - (Policy, claims, Underwriting)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="507.81" y="2255" width="263.37" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-32" value="Queries raised through email, customer portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;) and agent portal (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="724.5" y="2236" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-34" value="Ticket resolved instantly through information available with CS executive (Only for call based tickets)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="473.5" y="2410" width="151" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="639.4949999999999" y="2419" as="sourcePoint" />
-            <mxPoint x="549" y="2455" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="2429" />
-              <mxPoint x="550" y="2429" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-36" value="Ticket status changed from open to resolved" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="489" y="2490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-34" target="G15ThiUx4BXyu7yqYoc5-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="2430" as="sourcePoint" />
-            <mxPoint x="630" y="2380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-38" value="1. Email triggered for ticket resolution (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6&lt;/span&gt;).&lt;div&gt;2. Happiness survey fetched through mail&lt;div&gt;&lt;div&gt;3. SMS/WA to be sent on successful ticket resolution. - &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="633.5" y="2906" width="217" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-36" target="G15ThiUx4BXyu7yqYoc5-38" edge="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="G15ThiUx4BXyu7yqYoc5-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="2680" as="sourcePoint" />
+            <mxPoint x="549" y="2550" as="sourcePoint" />
             <mxPoint x="670" y="2630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="2950" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="639.4949999999999" y="2419" as="sourcePoint" />
-            <mxPoint x="743" y="2445" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="2429" />
-              <mxPoint x="743" y="2429" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-41" value="Ticket not resolved instantly:&lt;div&gt;Ticket status set as open&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660.5" y="2400" width="165" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-42" value="Ticket to be assigned to Galaxy support executives on round robin method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668.75" y="2500" width="147.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-41" target="G15ThiUx4BXyu7yqYoc5-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="2430" as="sourcePoint" />
-            <mxPoint x="810" y="2380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-44" value="1. &lt;b&gt;Scenario 1&lt;/b&gt;: Details available in CRM / Desk (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;) - Assigned executive handles the ticket without integration.&lt;div&gt;&lt;b&gt;Scenario 2&lt;/b&gt;: Resolution specific to TCS BaNCS: Details to be sent to TCS BaNCS for review of the ticket (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;)&lt;div&gt;2. Ticket status changed to In-progress)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="638.25" y="2610" width="207.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-42" target="G15ThiUx4BXyu7yqYoc5-44" edge="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="G15ThiUx4BXyu7yqYoc5-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="2490" as="sourcePoint" />
+            <mxPoint x="742.5" y="2580" as="sourcePoint" />
             <mxPoint x="810" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-46" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="106.4" y="2095" width="148.6" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=148.6;exitDy=65;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="255" y="2205" as="sourcePoint" />
-            <mxPoint x="320" y="2432" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="2205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-48" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="348" y="2294" width="141" height="102" as="geometry" />
-        </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-50" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1330" y="2260" width="148.6" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-51" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="808.5" y="2270" width="182.5" height="83" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-50" target="G15ThiUx4BXyu7yqYoc5-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="860" y="2340" as="sourcePoint" />
             <mxPoint x="910" y="2290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="G15ThiUx4BXyu7yqYoc5-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="899.75" y="2315" as="sourcePoint" />
-            <mxPoint x="1150" y="2400" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="900" y="2271" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-55" value="1. TCS BaNCS shall respond back to the queries (Integration design to be discussed and agreed, Ticket status to be updated in Desk from TCS BaNCS)&lt;div&gt;2. Relevant Document (if any ) to be sent to the customer. -&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;&lt;br&gt;&lt;div&gt;3. Ticket status changed to Resolved (Resolution code shall be defined by Zoho)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -285,16 +85,6 @@
         <mxCell id="LatDOPX2VR_3BTuD7BCr-9" value="Ticket shall&amp;nbsp;&lt;div&gt;be closed&amp;nbsp;&lt;div&gt;if not reopened&amp;nbsp;&lt;/div&gt;&lt;div&gt;for 14 days&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-59" vertex="1" connectable="0">
           <mxGeometry x="0.2299" y="1" relative="1" as="geometry">
             <mxPoint x="4" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-22" target="G15ThiUx4BXyu7yqYoc5-41" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="2460" as="sourcePoint" />
-            <mxPoint x="1080" y="2500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="2310" />
-              <mxPoint x="920" y="2425" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-38" target="LatDOPX2VR_3BTuD7BCr-3" edge="1">
@@ -394,22 +184,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="2424" as="sourcePoint" />
-            <mxPoint x="640" y="2370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="2424" />
-              <mxPoint x="470" y="2370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=141;exitDy=66;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="489" y="2425" as="sourcePoint" />
-            <mxPoint x="507.80999999999995" y="2425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-44" target="G15ThiUx4BXyu7yqYoc5-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="2690" as="sourcePoint" />
@@ -418,11 +192,6 @@
               <mxPoint x="870" y="2643" />
               <mxPoint x="870" y="2480" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-97" value="TAT&lt;div&gt;time is&amp;nbsp;&lt;/div&gt;&lt;div&gt;breached&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-96" vertex="1" connectable="0">
-          <mxGeometry x="0.0923" y="-1" relative="1" as="geometry">
-            <mxPoint y="41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -442,20 +211,6 @@
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-103" value="Within Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="808.5" y="3134" width="96.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="870" y="2415" as="sourcePoint" />
-            <mxPoint x="640" y="2415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="795" y="2415" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-2" value="Tickets&lt;div&gt;&amp;nbsp;created&lt;div&gt;&lt;div&gt;in Desk&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-104" vertex="1" connectable="0">
-          <mxGeometry x="-0.3148" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LatDOPX2VR_3BTuD7BCr-3" value="&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Customer&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;reopens&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;ticket&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;through&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Galaxy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;mail&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;or&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;calls&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;galaxy within&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;14 days from&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ticket resolved&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: nowrap; font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;date&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="2722.37" width="120" height="140" as="geometry" />
@@ -701,6 +456,14 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-31" target="jaS_6ejKE6jILCxBxe4m-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1960" />
+              <mxPoint x="654" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-31" value="Ticket status is set to &quot;Open&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1892" width="200" height="40" as="geometry" />
         </mxCell>
@@ -777,6 +540,46 @@
               <mxPoint x="1022" y="1912" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-40" target="jaS_6ejKE6jILCxBxe4m-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-40" value="Ticket acknowledgement to be sent through mail (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D3&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-41" target="jaS_6ejKE6jILCxBxe4m-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-41" value="Ticket acknowledgement to be sent via SMS and WhatsApp (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="594" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-42" value="SMS &amp;amp; WhatsApp template to be shared along with template ID" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="758" y="1980" width="159.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-42" target="jaS_6ejKE6jILCxBxe4m-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2120" as="sourcePoint" />
+            <mxPoint x="590" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-31" target="jaS_6ejKE6jILCxBxe4m-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2120" as="sourcePoint" />
+            <mxPoint x="590" y="2070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1960" />
+              <mxPoint x="511" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-46" value="Ticket allocation - round robin method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="2120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-49" target="jaS_6ejKE6jILCxBxe4m-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-49" value="Grievance team user details to be shared (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="699" y="2115" width="138" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
