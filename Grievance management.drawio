@@ -295,6 +295,9 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-53" value="Grievance executive shall work on the ticket manually and update the remarks." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="2320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -330,7 +333,7 @@
           <mxGeometry x="1074.62" y="2245" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-65" value="Query is raised with the customer (GHI executives shall update the remarks, disposal and status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482.25" y="2420" width="195.5" height="60" as="geometry" />
+          <mxGeometry x="486.75" y="2430" width="195.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
