@@ -144,7 +144,7 @@
             <mxPoint x="520" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-30" value="Integration with customer&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Portal is not&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;discussed and &quot;Open&quot;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-29">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-30" value="Integration with customer&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Portal is&amp;nbsp;&lt;/span&gt;&quot;Open&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jaS_6ejKE6jILCxBxe4m-29">
           <mxGeometry x="0.5651" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -295,8 +295,8 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-54" value="GHI executives shall resolve the ticket (Not applicable for tickets related to IGMS Bhima Barosa)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="2310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-57" value="1. Ticket resolution mail + SMS + WhatsApp shall be sent to customer along with ombudsman details (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;)&lt;div&gt;2. Ticket resolution remarks along with mandatory fields (D6) shall be sent to IGMS through API (I3)&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="728" y="2225" width="194" height="110" as="geometry" />
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-57" value="1. Ticket resolution mail + SMS + WhatsApp shall be sent to customer along with ombudsman details - (region specific)(&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;)&amp;nbsp;&lt;div&gt;&lt;b&gt;Note:&lt;/b&gt; This is not to be sent for tickets received through INGRAM and CPGRAM portal&lt;br&gt;&lt;div&gt;2. Ticket resolution remarks along with mandatory fields (D6) shall be sent to IGMS through API (I3)&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.5" y="2225" width="252" height="110" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-59" target="jaS_6ejKE6jILCxBxe4m-57">
           <mxGeometry relative="1" as="geometry" />
@@ -325,7 +325,7 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-72" target="jaS_6ejKE6jILCxBxe4m-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-72" value="Customer feedback mail to be sent and response to be captured." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-72" value="Customer feedback mail to be sent and response to be captured. (D8)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1019.9999999999999" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-57" target="jaS_6ejKE6jILCxBxe4m-72">
@@ -344,16 +344,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-80" value="Customer responds to the mail within 56 days from the date of ticket resolution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="692" y="2390" width="170" height="60" as="geometry" />
+          <mxGeometry x="677.5" y="2390" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-57" target="jaS_6ejKE6jILCxBxe4m-80">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-57" target="jaS_6ejKE6jILCxBxe4m-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="475" y="2250" as="sourcePoint" />
+            <mxPoint x="780" y="2350" as="sourcePoint" />
             <mxPoint x="525" y="2200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-84" value="Ticket status changed to re-open (Provision to manually re-open the ticket to also be enabled)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="2490" width="162" height="60" as="geometry" />
+          <mxGeometry x="681" y="2490" width="162" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-80" target="jaS_6ejKE6jILCxBxe4m-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -366,13 +366,13 @@
             <mxPoint x="385" y="2420" as="sourcePoint" />
             <mxPoint x="435" y="2370" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="2640" />
+              <mxPoint x="762" y="2640" />
               <mxPoint x="115" y="2640" />
               <mxPoint x="115" y="2350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-90" value="Send status to IGMS through API for ticket resolution (I5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-90" value="Send status to IGMS through API for ticket resolution - Push to IGMS button (I5)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="2209" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-93" value="Get response from IGMS (I6)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
