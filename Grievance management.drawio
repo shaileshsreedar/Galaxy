@@ -272,8 +272,8 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-51" target="jaS_6ejKE6jILCxBxe4m-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-51" value="Ticket status changed to In-progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.5" y="2220" width="120" height="60" as="geometry" />
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-51" value="Ticket status changed to In-progress (D6- Tickets category and sub-category to be listed by GHI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204.25" y="2220" width="150.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-54">
           <mxGeometry relative="1" as="geometry" />
@@ -418,9 +418,18 @@
           <mxGeometry x="1010" y="2350" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-102" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="2465" width="60" height="30" as="geometry" />
+          <mxGeometry x="1050" y="2560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-100" target="jaS_6ejKE6jILCxBxe4m-102">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-100" target="jaS_6ejKE6jILCxBxe4m-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="2390" as="sourcePoint" />
+            <mxPoint x="860" y="2340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-104" value="For IGMS portal cases, closed status along with mandatory fields to be sent (I7)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jaS_6ejKE6jILCxBxe4m-104" target="jaS_6ejKE6jILCxBxe4m-102">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="2390" as="sourcePoint" />
             <mxPoint x="860" y="2340" as="targetPoint" />
