@@ -329,6 +329,9 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-59" value="Mail template shall be shared by GHI" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1074.62" y="2245" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-65" value="Query is raised with the customer (GHI executives shall update the remarks, disposal and status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.25" y="2420" width="195.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
