@@ -281,7 +281,7 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-88" value="Raise a query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-66" vertex="1" connectable="0">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-88" value="Raise a query&lt;div&gt;(once for a ticket)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-66" vertex="1" connectable="0">
           <mxGeometry x="-0.2464" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
