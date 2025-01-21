@@ -34,7 +34,7 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-1" value="Tickets raised through Grievance mail ID (D3 -&amp;nbsp;&lt;span&gt;gro@galaxyhealth.com&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="200.01" y="1520" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6 - Customer Portal&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website (&lt;span&gt;D6 - Customer Portal&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="962" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-3" value="Ticket raised through letter/courier and In-person walk-in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
