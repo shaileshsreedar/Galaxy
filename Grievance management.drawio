@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
-    <mxGraphModel dx="2021" dy="-554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="-554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="G15ThiUx4BXyu7yqYoc5-103" value="Within Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650.13" y="2670" width="96.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-1" value="Tickets raised through Grievance mail ID (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D3&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1520" width="120" height="60" as="geometry" />
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-1" value="Tickets raised through Grievance mail ID (D3 -&amp;nbsp;&lt;span&gt;gro@galaxyhealth.com&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200.01" y="1520" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D6 - Customer Portal&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="962" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-3" value="Ticket raised through letter/courier and In-person walk-in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -46,10 +46,10 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-5" value="Tickets raised through IGMS portal of IRDAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="329" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-6" value="Tickets raised through National consumer helpline or INGRAM Portal (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-6" value="Tickets raised through National consumer helpline or INGRAM Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="579" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-7" value="Tickets raised through public grievance or CPGRAM portal (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-7" value="Tickets raised through public grievance or CPGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="831" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-9" value="Channels for raising Grievance tickets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
@@ -235,10 +235,10 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-41" target="jaS_6ejKE6jILCxBxe4m-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-41" value="Ticket acknowledgement to be sent via SMS and WhatsApp (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D8&lt;/span&gt;) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-41" value="Ticket acknowledgement to be sent via SMS and WhatsApp (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="289" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-42" value="SMS &amp;amp; WhatsApp template to be shared along with template ID" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-42" value="SMS &amp;amp; WhatsApp template ID to be shared" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="450" y="1995" width="159.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-42" target="jaS_6ejKE6jILCxBxe4m-41" edge="1">
@@ -295,19 +295,19 @@
         <mxCell id="jaS_6ejKE6jILCxBxe4m-54" value="GHI executives shall resolve the ticket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="422" y="2330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-57" value="1. Ticket resolution mail + SMS (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D12&lt;/span&gt;) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;) + WhatsApp (Future) (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D13&lt;/span&gt;) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;)shall be sent to customer along with ombudsman details - (region specific)(&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D14&lt;/span&gt;)&amp;nbsp;&lt;div&gt;&lt;b&gt;Note:&lt;/b&gt; This is not to be sent for tickets received through INGRAM and CPGRAM portal&lt;br&gt;&lt;div&gt;2. Ticket resolution remarks along with mandatory fields (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D15&lt;/span&gt;) shall be sent to IGMS through API (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&lt;/span&gt;)&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-57" value="1. Ticket resolution mail + SMS (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;) + WhatsApp (Future - Not scoped for CR 5) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;)shall be sent to customer along with ombudsman details - (region specific)&amp;nbsp;&lt;div&gt;&lt;b&gt;Note:&lt;/b&gt; This is not to be sent for tickets received through INGRAM and CPGRAM portal&lt;br&gt;&lt;div&gt;2. Ticket resolution remarks along with mandatory fields shall be sent to IGMS through API (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&lt;/span&gt;)&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="685.5" y="2223" width="280.5" height="115" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-59" target="jaS_6ejKE6jILCxBxe4m-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-59" value="Mail Template shall&lt;div&gt;be shared by GHI (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D16&lt;/span&gt;)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-59" value="Mail Template shall&lt;div&gt;be shared by GHI&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="894" y="2350" width="96" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-65" value="Query is raised with the customer (GHI executives shall update the remarks, disposal and status" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="181.5" y="2440" width="195.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jaS_6ejKE6jILCxBxe4m-67" value="Ticket status mail shall be sent to customer along with ombudsman details (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D11&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-67" value="Ticket status mail shall be sent to customer along with ombudsman details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="204.25" y="2530" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jaS_6ejKE6jILCxBxe4m-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-68" target="jaS_6ejKE6jILCxBxe4m-54" edge="1">
