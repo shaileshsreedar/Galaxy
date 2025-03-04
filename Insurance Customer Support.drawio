@@ -64,7 +64,7 @@
             <mxPoint x="530" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-10" value="SSO to be ensured for&amp;nbsp;&lt;div&gt;CS executive at the time of login&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-10" value="SSO to be ensured for Support&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;executive at the time of login&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="554.5" y="1780" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-10" target="G15ThiUx4BXyu7yqYoc5-8" edge="1">
@@ -139,15 +139,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-26" value="Agent care support number to be shared by Insurer" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="255" y="1995" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-26" target="G15ThiUx4BXyu7yqYoc5-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="1940" as="sourcePoint" />
-            <mxPoint x="620" y="1890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-28" value="Proceed with ticket creation with below fields&lt;div&gt;1. Agent status&lt;/div&gt;&lt;div&gt;2. Issue categorisation&lt;/div&gt;&lt;div&gt;3. Issue Description&lt;/div&gt;&lt;div&gt;4. Default Desk OOTB fields&lt;/div&gt;&lt;div&gt;Ticket shall be created specific to the agent or for a customer&#39;s behalf&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="2387" width="185" height="150" as="geometry" />
         </mxCell>
@@ -166,7 +157,7 @@
             <mxPoint x="640" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as available in CRM /Desk master shall be populated&lt;/div&gt;&lt;div&gt;2. Select Category, sub category of the tickets&lt;/div&gt;&lt;div&gt;3. Issue description box for customer query to be provided&lt;/div&gt;&lt;div&gt;4. Policy status (Active/Not active) - If passed as a field to CRM/Desk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-31" value="&lt;b&gt;Ticket to be created&lt;/b&gt;&lt;div&gt;1. Customer details as available in CRM /Desk master shall be populated&lt;/div&gt;&lt;div&gt;2. Select Category, sub category of the tickets&lt;/div&gt;&lt;div&gt;3. Issue description box for customer query to be provided&lt;/div&gt;&lt;div&gt;4. Policy status (Active/Not active) - to be captured in a field to CRM/Desk&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="507.81" y="2210" width="263.37" height="140" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-32" value="Queries raised through email, customer portal and agent portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -237,7 +228,7 @@
             <mxPoint x="810" y="2440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-46" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-46" value="Date and time of Ticket creation is to be captured to check if the resolution TAT is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="106.4" y="2095" width="148.6" height="100" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=148.6;exitDy=65;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-46" target="G15ThiUx4BXyu7yqYoc5-28" edge="1">
@@ -249,13 +240,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-48" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-48" value="Date and time of Ticket creation is to be captured to check if the resolution TAT is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="348" y="2249" width="141" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-50" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-50" value="Date and time of Ticket creation is to be captured to check if the resolution TAT is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="1330" y="2260" width="148.6" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G15ThiUx4BXyu7yqYoc5-51" value="Date and time of Ticket creation is to be captured to check if the resolution TAT(14 days) is breached" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-51" value="Date and time of Ticket creation&amp;nbsp;&lt;div&gt;is to be captured to check if the resolution TAT is breached&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="808.5" y="2205" width="182.5" height="83" as="geometry" />
         </mxCell>
         <mxCell id="G15ThiUx4BXyu7yqYoc5-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G15ThiUx4BXyu7yqYoc5-50" target="G15ThiUx4BXyu7yqYoc5-22" edge="1">
@@ -291,7 +282,7 @@
             <mxPoint x="510" y="2580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-9" value="Ticket shall&amp;nbsp;&lt;div&gt;be closed&amp;nbsp;&lt;div&gt;if not reopened&amp;nbsp;&lt;/div&gt;&lt;div&gt;for 14 days&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-59" vertex="1" connectable="0">
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-9" value="Ticket shall&amp;nbsp;&lt;div&gt;be closed&amp;nbsp;&lt;div&gt;if not reopened&amp;nbsp;&lt;/div&gt;&lt;div&gt;within the TAT.&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-59" vertex="1" connectable="0">
           <mxGeometry x="0.2299" y="1" relative="1" as="geometry">
             <mxPoint x="4" y="2" as="offset" />
           </mxGeometry>
@@ -398,7 +389,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-7" value="Ticket shall be closed&amp;nbsp;&lt;div&gt;if not reopened for&amp;nbsp;&lt;/div&gt;&lt;div&gt;14 days&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-83" vertex="1" connectable="0">
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-7" value="Ticket shall be closed&amp;nbsp;&lt;div&gt;if not reopened&lt;/div&gt;&lt;div&gt;within the TAT&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G15ThiUx4BXyu7yqYoc5-83" vertex="1" connectable="0">
           <mxGeometry x="0.0366" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -487,22 +478,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-6" value="Ticket&lt;div&gt;assigned to&amp;nbsp;&lt;/div&gt;&lt;div&gt;same CS&lt;/div&gt;&lt;div&gt;executive&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LatDOPX2VR_3BTuD7BCr-5" vertex="1" connectable="0">
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-6" value="Ticket&lt;div&gt;assigned to&amp;nbsp;&lt;/div&gt;&lt;div&gt;same Support&lt;/div&gt;&lt;div&gt;executive&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LatDOPX2VR_3BTuD7BCr-5" vertex="1" connectable="0">
           <mxGeometry x="0.2613" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-10" value="Hospital support&lt;div&gt;Hospital enquires with Galaxy through mail or dedicated hospital care number&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="334.25" y="2617.37" width="163.5" height="60" as="geometry" />
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-10" value="Hospital support&lt;div&gt;Hospital enquires with Insurance provider through mail or dedicated hospital care number&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="334.25" y="2610" width="163.5" height="67.37" as="geometry" />
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-11" value="Galaxy&#39;s hospital care executive shall connect offline with hospital to gather the queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="334.75" y="2712.37" width="147.5" height="60" as="geometry" />
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-11" value="Insurance provider&#39;s hospital care executive shall connect offline with hospital to gather the queries" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="334.75" y="2712.37" width="147.5" height="77.63" as="geometry" />
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-12" value="Based on input, ticket is created in Zoho Desk with fields as agreed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-12" value="Based on input, ticket is created in Desk with fields as agreed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="348.5" y="2809.74" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LatDOPX2VR_3BTuD7BCr-13" value="Galaxy executive shall check on the query and respond back through mail and close the ticket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="2907.37" width="159" height="60" as="geometry" />
+        <mxCell id="LatDOPX2VR_3BTuD7BCr-13" value="Insurance provider&#39;s executive shall check on the query and respond back through mail and close the ticket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="2907.37" width="159" height="72.63" as="geometry" />
         </mxCell>
         <mxCell id="LatDOPX2VR_3BTuD7BCr-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.455;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LatDOPX2VR_3BTuD7BCr-10" target="LatDOPX2VR_3BTuD7BCr-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -553,7 +544,7 @@
             <mxPoint x="440" y="2590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9aKA09WB6CI9SyymXwDa-7" value="Tickets to check for tagging with existing CIN based on mail subject (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D7&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9aKA09WB6CI9SyymXwDa-7" value="Tickets to check for tagging with existing customer number based on mail subject" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="2885" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aKA09WB6CI9SyymXwDa-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9aKA09WB6CI9SyymXwDa-5" target="9aKA09WB6CI9SyymXwDa-7" edge="1">
@@ -562,7 +553,7 @@
             <mxPoint x="440" y="2780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9aKA09WB6CI9SyymXwDa-9" value="Tickets pushed to TCS through API (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9aKA09WB6CI9SyymXwDa-9" value="Tickets pushed to Insurance core system through API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9aKA09WB6CI9SyymXwDa-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9aKA09WB6CI9SyymXwDa-7" target="9aKA09WB6CI9SyymXwDa-9" edge="1">
