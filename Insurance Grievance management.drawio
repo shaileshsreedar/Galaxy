@@ -1,0 +1,487 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Page-1" id="zcw-Cnb_ciNUWG4lOdHk">
+    <mxGraphModel dx="2021" dy="-588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1490" width="1020" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-1" value="Ticket raised through landline office phone (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D1&lt;/span&gt;) and toll free customer care (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D2&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMElNXdr1ZD5l6xWRX4L-2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1567.5" width="62.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="354.63" y="2670" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-99" value="Outside Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="387.13" y="2670" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="503.63" y="2670" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-101" value="Dialer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="518.13" y="2670" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="606.63" y="2670" width="36" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G15ThiUx4BXyu7yqYoc5-103" value="Within Zoho Desk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="650.13" y="2670" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-1" value="Tickets raised through Grievance mail ID (D3 -&amp;nbsp;&lt;span&gt;gro@galaxyhealth.com&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="200.01" y="1520" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-2" value="Ticket raised through company website (&lt;span&gt;D6 - Customer Portal&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="962" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-3" value="Ticket raised through letter/courier and In-person walk-in" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="455" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-4" value="Ticket raised by Operating offices" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="703.5" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-5" value="Tickets raised through IGMS portal of IRDAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="329" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-6" value="Tickets raised through National consumer helpline or INGRAM Portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="579" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-7" value="Tickets raised through public grievance or CPGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="831" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-9" value="Channels for raising Grievance tickets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="70.5" y="1490" width="312.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-2" target="jaS_6ejKE6jILCxBxe4m-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1680" as="sourcePoint" />
+            <mxPoint x="520" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-12" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CMElNXdr1ZD5l6xWRX4L-1" target="jaS_6ejKE6jILCxBxe4m-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-14" value="Tickets registered in Desk on round robin allocation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="217.38" y="1748" width="105.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-1" target="jaS_6ejKE6jILCxBxe4m-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-16" value="Tickets registered in Desk on round robin allocation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="336.38" y="1748" width="105.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-5" target="jaS_6ejKE6jILCxBxe4m-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-18" value="Integration through CBOS (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I1&lt;/span&gt;)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.0229" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-19" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-3" target="jaS_6ejKE6jILCxBxe4m-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-21" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-22" value="Integration to this portal&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-6" target="jaS_6ejKE6jILCxBxe4m-21" edge="1">
+          <mxGeometry x="-0.011" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-23" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="703.5" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-4" target="jaS_6ejKE6jILCxBxe4m-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-25" value="Tickets needs to be manually registered into Desk by support executives" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="831" y="1748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-7" target="jaS_6ejKE6jILCxBxe4m-25" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-27" value="Integration to this portal&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;is not considered&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.0435" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-28" value="Tickets registered in Desk on round robin allocation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="969.37" y="1748" width="105.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-2" target="jaS_6ejKE6jILCxBxe4m-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1790" as="sourcePoint" />
+            <mxPoint x="520" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-30" value="Integration with customer&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;Portal (&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;D6&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;)&amp;nbsp;&lt;/span&gt;- &lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I2&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-29" vertex="1" connectable="0">
+          <mxGeometry x="0.5651" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-31" value="Ticket status is set to &quot;Open&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1892" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-12" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-14" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="470" y="1880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-16" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="389" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-19" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="515" y="1850" />
+              <mxPoint x="580" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-21" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1850" />
+              <mxPoint x="580" y="1850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-23" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="764" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-25" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-28" target="jaS_6ejKE6jILCxBxe4m-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2040" as="sourcePoint" />
+            <mxPoint x="590" y="1990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1022" y="1912" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-40" target="jaS_6ejKE6jILCxBxe4m-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-40" value="Ticket acknowledgement to be sent through mail except INGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="138" y="2000" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-41" target="jaS_6ejKE6jILCxBxe4m-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-41" value="Ticket acknowledgement to be sent via SMS and WhatsApp (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I3&lt;/span&gt;) except INGRAM portal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289" y="2000" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-42" value="SMS &amp;amp; WhatsApp template ID to be shared (&lt;span style=&quot;background-color: rgb(255, 0, 255);&quot;&gt;D3&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="449" y="2000" width="159.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-42" target="jaS_6ejKE6jILCxBxe4m-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="2120" as="sourcePoint" />
+            <mxPoint x="285" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-31" target="jaS_6ejKE6jILCxBxe4m-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="2120" as="sourcePoint" />
+            <mxPoint x="590" y="2070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1960" />
+              <mxPoint x="206" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-46" target="jaS_6ejKE6jILCxBxe4m-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-46" value="Ticket allocation - round robin method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="219.5" y="2120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-49" value="Grievance team user details &amp;amp; Corporate grievance user to be shared (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D4&lt;/span&gt;)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="50" y="2100" width="138" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-51" target="jaS_6ejKE6jILCxBxe4m-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-51" value="Ticket status changed to In-progress." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="226.62" y="2223" width="105.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-PMYsnTJAkIeBfmSG1vm-1" value="No query&lt;div&gt;required&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-56" vertex="1" connectable="0">
+          <mxGeometry x="-0.1879" y="-1" relative="1" as="geometry">
+            <mxPoint x="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-88" value="Raise a query with customer&lt;div&gt;(once for a ticket)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaS_6ejKE6jILCxBxe4m-66" vertex="1" connectable="0">
+          <mxGeometry x="-0.2464" y="-1" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-53" value="Grievance executive shall work on the ticket manually and update the fields." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="219.5" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-54" target="jaS_6ejKE6jILCxBxe4m-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-54" value="GHI executives shall resolve the ticket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="501" y="2331" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-57" value="1. Ticket resolution mail + SMS (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I5&lt;/span&gt;) + WhatsApp (Future - Not scoped for CR 5) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I6&lt;/span&gt;)shall be sent to customer along with ombudsman details - (region specific)&amp;nbsp;&lt;div&gt;&lt;b&gt;Note:&lt;/b&gt; This is not to be sent for tickets received through INGRAM portal&lt;br&gt;&lt;div&gt;2. Ticket resolution remarks along with mandatory fields shall be sent to IGMS through API (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I7&lt;/span&gt;)&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="685.5" y="2192" width="280.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-65" value="Query is raised with the customer (GHI executives shall update the remarks, disposal and status" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="181.5" y="2440" width="195.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-67" value="Ticket status mail shall be sent to customer along with ombudsman details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="204.25" y="2530" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-68" target="jaS_6ejKE6jILCxBxe4m-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-68" value="Ticket status shall be set to resolved on 14th Day from the date of registering the ticket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="501" y="2440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-65" target="jaS_6ejKE6jILCxBxe4m-67" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="2350" as="sourcePoint" />
+            <mxPoint x="435" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-57" target="jaS_6ejKE6jILCxBxe4m-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-72" value="Customer feedback mail to be sent and response to be captured. (&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;D5&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1019.9999999999999" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="jaS_6ejKE6jILCxBxe4m-72" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="966" y="2250.5" as="sourcePoint" />
+            <mxPoint x="624" y="2270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-67" target="jaS_6ejKE6jILCxBxe4m-68" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="2250" as="sourcePoint" />
+            <mxPoint x="435" y="2200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="2560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-80" value="Customer responds to the mail within 56 days (Only for non-escalated) from the date of ticket registration (Escalated remarks shall be sent by IGMS through API)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="729.5" y="2400" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-57" target="jaS_6ejKE6jILCxBxe4m-80" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="2350" as="sourcePoint" />
+            <mxPoint x="525" y="2200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="756" y="2370" />
+              <mxPoint x="815" y="2370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-84" value="Ticket status changed to re-open (Provision to manually re-open the ticket to also be enabled)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="733.5" y="2520" width="162" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-80" target="jaS_6ejKE6jILCxBxe4m-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="2420" as="sourcePoint" />
+            <mxPoint x="528" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-84" target="jaS_6ejKE6jILCxBxe4m-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="2420" as="sourcePoint" />
+            <mxPoint x="435" y="2370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="815" y="2600" />
+              <mxPoint x="115" y="2600" />
+              <mxPoint x="115" y="2350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-90" value="Push ticket to IGMS through API - (Submit/ Push to IGMS button) (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I4&lt;/span&gt;)&lt;div&gt;(error logs to be made visible)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="2194.25" width="178" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-31" target="jaS_6ejKE6jILCxBxe4m-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="2300" as="sourcePoint" />
+            <mxPoint x="670" y="2250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="1960" />
+              <mxPoint x="349" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-90" target="jaS_6ejKE6jILCxBxe4m-57" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="2330" as="sourcePoint" />
+            <mxPoint x="568" y="2239.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561" y="2170" />
+              <mxPoint x="610" y="2170" />
+              <mxPoint x="826" y="2170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-100" value="No response is received from customer for 56 days from the time of ticket registration (creation) - Ticket status is changed to &quot;Closed&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="2292" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-102" value="End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="2502" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-100" target="jaS_6ejKE6jILCxBxe4m-104" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="2332" as="sourcePoint" />
+            <mxPoint x="860" y="2282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-104" value="For IGMS portal cases, closed status along with mandatory fields to be sent (&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;I8&lt;/span&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="2412" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-104" target="jaS_6ejKE6jILCxBxe4m-102" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="2332" as="sourcePoint" />
+            <mxPoint x="860" y="2282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-109" value="&lt;span style=&quot;background-color: rgb(255, 64, 255);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="2670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-110" value="Need clarifications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790.5" y="2670" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-111" value="&lt;span style=&quot;background-color: rgb(255, 251, 0);&quot;&gt;Text&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="2670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaS_6ejKE6jILCxBxe4m-112" value="Integrations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="912" y="2670" width="96.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-PMYsnTJAkIeBfmSG1vm-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=138;exitDy=50;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-49" target="jaS_6ejKE6jILCxBxe4m-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2270" as="sourcePoint" />
+            <mxPoint x="440" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PMYsnTJAkIeBfmSG1vm-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-53" target="jaS_6ejKE6jILCxBxe4m-90" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="2360" as="sourcePoint" />
+            <mxPoint x="470" y="2310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="2350" />
+              <mxPoint x="410" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-PMYsnTJAkIeBfmSG1vm-4" value="New Ticket&lt;div&gt;directly pushed&lt;/div&gt;&lt;div&gt;to IGMS&lt;/div&gt;&lt;div&gt;from Desk&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-PMYsnTJAkIeBfmSG1vm-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.0804" y="-1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-iBowZKh1Kvrs8Wk3io-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=7;" parent="1" source="jaS_6ejKE6jILCxBxe4m-54" target="jaS_6ejKE6jILCxBxe4m-102" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="2380" as="sourcePoint" />
+            <mxPoint x="790" y="2350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="2351" />
+              <mxPoint x="650" y="2620" />
+              <mxPoint x="1080" y="2620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-iBowZKh1Kvrs8Wk3io-3" value="For INGRAM / CPGRAM&lt;div&gt;(New complaints)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="k-iBowZKh1Kvrs8Wk3io-1" vertex="1" connectable="0">
+          <mxGeometry x="0.2525" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-iBowZKh1Kvrs8Wk3io-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jaS_6ejKE6jILCxBxe4m-54" target="jaS_6ejKE6jILCxBxe4m-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="2410" as="sourcePoint" />
+            <mxPoint x="750" y="2360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="2351" />
+              <mxPoint x="650" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-iBowZKh1Kvrs8Wk3io-5" value="INGRAM&lt;div&gt;CPGRAM&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="k-iBowZKh1Kvrs8Wk3io-4" vertex="1" connectable="0">
+          <mxGeometry x="0.7252" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
